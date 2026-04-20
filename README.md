@@ -1,8 +1,8 @@
 # Assignment-2, Speech Understanding
 
-## Vishal Kishore,B23CS1078
+## Vishal Kishore, B23CS1078
 
-
+**GitHub Repository:** [https://github.com/vishalkishore/speech_assignment_2](https://github.com/vishalkishore/speech_assignment_2)
 
 ## Top-level layout:
 - `source_clip_10min.wav`: final 10-minute source clip
