@@ -1,0 +1,4237 @@
+[
+  {
+    "token": "Vishwan",
+    "token_type": "english",
+    "ipa": "vɪʃwæn"
+  },
+  {
+    "token": "Miriam",
+    "token_type": "english",
+    "ipa": "mɪrɪæm"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "मेरी",
+    "token_type": "devanagari",
+    "ipa": "meːriː"
+  },
+  {
+    "token": "आँख",
+    "token_type": "devanagari",
+    "ipa": "aː̃kʰ"
+  },
+  {
+    "token": "के",
+    "token_type": "devanagari",
+    "ipa": "keː"
+  },
+  {
+    "token": "सामने",
+    "token_type": "devanagari",
+    "ipa": "saːmneː"
+  },
+  {
+    "token": "जो",
+    "token_type": "devanagari",
+    "ipa": "dʒoː"
+  },
+  {
+    "token": "चीज़े",
+    "token_type": "devanagari",
+    "ipa": "tʃiːdʒ़eː"
+  },
+  {
+    "token": "हैं",
+    "token_type": "devanagari",
+    "ipa": "ɦɛːŋ"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "वो",
+    "token_type": "devanagari",
+    "ipa": "ʋoː"
+  },
+  {
+    "token": "ही",
+    "token_type": "devanagari",
+    "ipa": "ɦiː"
+  },
+  {
+    "token": "मुझे",
+    "token_type": "devanagari",
+    "ipa": "mʊdʒʱeː"
+  },
+  {
+    "token": "मोटिवेट",
+    "token_type": "devanagari",
+    "ipa": "moːʈɪʋeːʈ"
+  },
+  {
+    "token": "करते",
+    "token_type": "devanagari",
+    "ipa": "krt̪eː"
+  },
+  {
+    "token": "रहती",
+    "token_type": "devanagari",
+    "ipa": "rɦt̪iː"
+  },
+  {
+    "token": "है",
+    "token_type": "devanagari",
+    "ipa": "ɦɛː"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "दूसरा",
+    "token_type": "devanagari",
+    "ipa": "d̪uːsraː"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "जो",
+    "token_type": "devanagari",
+    "ipa": "dʒoː"
+  },
+  {
+    "token": "जिम्मेबारी",
+    "token_type": "devanagari",
+    "ipa": "dʒɪm्meːbaːriː"
+  },
+  {
+    "token": "देशवास्वे",
+    "token_type": "devanagari",
+    "ipa": "d̪eːʃʋaːs्ʋeː"
+  },
+  {
+    "token": "ने",
+    "token_type": "devanagari",
+    "ipa": "neː"
+  },
+  {
+    "token": "मुझे",
+    "token_type": "devanagari",
+    "ipa": "mʊdʒʱeː"
+  },
+  {
+    "token": "दी",
+    "token_type": "devanagari",
+    "ipa": "d̪iː"
+  },
+  {
+    "token": "है।",
+    "token_type": "devanagari",
+    "ipa": "ɦɛː।"
+  },
+  {
+    "token": "कि",
+    "token_type": "devanagari",
+    "ipa": "kɪ"
+  },
+  {
+    "token": "मैं",
+    "token_type": "devanagari",
+    "ipa": "mɛːŋ"
+  },
+  {
+    "token": "पद",
+    "token_type": "devanagari",
+    "ipa": "pd̪"
+  },
+  {
+    "token": "पर",
+    "token_type": "devanagari",
+    "ipa": "pr"
+  },
+  {
+    "token": "मौज",
+    "token_type": "devanagari",
+    "ipa": "mɔːdʒ"
+  },
+  {
+    "token": "मस्ती",
+    "token_type": "devanagari",
+    "ipa": "ms्t̪iː"
+  },
+  {
+    "token": "करने",
+    "token_type": "devanagari",
+    "ipa": "krneː"
+  },
+  {
+    "token": "के",
+    "token_type": "devanagari",
+    "ipa": "keː"
+  },
+  {
+    "token": "लिए",
+    "token_type": "devanagari",
+    "ipa": "lɪeː"
+  },
+  {
+    "token": "नहीं",
+    "token_type": "devanagari",
+    "ipa": "nɦiːŋ"
+  },
+  {
+    "token": "आया।",
+    "token_type": "devanagari",
+    "ipa": "aːjaː।"
+  },
+  {
+    "token": "मेरी",
+    "token_type": "devanagari",
+    "ipa": "meːriː"
+  },
+  {
+    "token": "जरब",
+    "token_type": "devanagari",
+    "ipa": "dʒrb"
+  },
+  {
+    "token": "से",
+    "token_type": "devanagari",
+    "ipa": "seː"
+  },
+  {
+    "token": "मैं",
+    "token_type": "devanagari",
+    "ipa": "mɛːŋ"
+  },
+  {
+    "token": "पुरा",
+    "token_type": "devanagari",
+    "ipa": "pʊraː"
+  },
+  {
+    "token": "प्रहास",
+    "token_type": "devanagari",
+    "ipa": "p्rɦaːs"
+  },
+  {
+    "token": "करूँगा",
+    "token_type": "devanagari",
+    "ipa": "kruː̃gaː"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "हो",
+    "token_type": "devanagari",
+    "ipa": "ɦoː"
+  },
+  {
+    "token": "सकता",
+    "token_type": "devanagari",
+    "ipa": "skt̪aː"
+  },
+  {
+    "token": "में",
+    "token_type": "devanagari",
+    "ipa": "meːŋ"
+  },
+  {
+    "token": "दो",
+    "token_type": "devanagari",
+    "ipa": "d̪oː"
+  },
+  {
+    "token": "काम",
+    "token_type": "devanagari",
+    "ipa": "kaːm"
+  },
+  {
+    "token": "नहीं",
+    "token_type": "devanagari",
+    "ipa": "nɦiːŋ"
+  },
+  {
+    "token": "बग",
+    "token_type": "devanagari",
+    "ipa": "bg"
+  },
+  {
+    "token": "कर",
+    "token_type": "devanagari",
+    "ipa": "kr"
+  },
+  {
+    "token": "पाऊं",
+    "token_type": "devanagari",
+    "ipa": "paːuːŋ"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "लेकिन",
+    "token_type": "devanagari",
+    "ipa": "leːkɪn"
+  },
+  {
+    "token": "मेरे",
+    "token_type": "devanagari",
+    "ipa": "meːreː"
+  },
+  {
+    "token": "प्रयास",
+    "token_type": "devanagari",
+    "ipa": "p्rjaːs"
+  },
+  {
+    "token": "पर",
+    "token_type": "devanagari",
+    "ipa": "pr"
+  },
+  {
+    "token": "कमी",
+    "token_type": "devanagari",
+    "ipa": "kmiː"
+  },
+  {
+    "token": "नहीं",
+    "token_type": "devanagari",
+    "ipa": "nɦiːŋ"
+  },
+  {
+    "token": "रहेगी",
+    "token_type": "devanagari",
+    "ipa": "rɦeːgiː"
+  },
+  {
+    "token": "मैंने",
+    "token_type": "devanagari",
+    "ipa": "mɛːŋneː"
+  },
+  {
+    "token": "कह",
+    "token_type": "devanagari",
+    "ipa": "kɦ"
+  },
+  {
+    "token": "देशवासियों",
+    "token_type": "devanagari",
+    "ipa": "d̪eːʃʋaːsɪjoːŋ"
+  },
+  {
+    "token": "को",
+    "token_type": "devanagari",
+    "ipa": "koː"
+  },
+  {
+    "token": "वादा",
+    "token_type": "devanagari",
+    "ipa": "ʋaːd̪aː"
+  },
+  {
+    "token": "करता",
+    "token_type": "devanagari",
+    "ipa": "krt̪aː"
+  },
+  {
+    "token": "हूँ",
+    "token_type": "devanagari",
+    "ipa": "ɦuː̃"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "कि",
+    "token_type": "devanagari",
+    "ipa": "kɪ"
+  },
+  {
+    "token": "मै",
+    "token_type": "devanagari",
+    "ipa": "mɛː"
+  },
+  {
+    "token": "n",
+    "token_type": "english",
+    "ipa": "n"
+  },
+  {
+    "token": "कभी",
+    "token_type": "devanagari",
+    "ipa": "kbʱiː"
+  },
+  {
+    "token": "बी",
+    "token_type": "devanagari",
+    "ipa": "biː"
+  },
+  {
+    "token": "परिश्रम",
+    "token_type": "devanagari",
+    "ipa": "prɪʃ्rm"
+  },
+  {
+    "token": "करने",
+    "token_type": "devanagari",
+    "ipa": "krneː"
+  },
+  {
+    "token": "में",
+    "token_type": "devanagari",
+    "ipa": "meːŋ"
+  },
+  {
+    "token": "पीछे",
+    "token_type": "devanagari",
+    "ipa": "piːtʃʰeː"
+  },
+  {
+    "token": "नहीं",
+    "token_type": "devanagari",
+    "ipa": "nɦiːŋ"
+  },
+  {
+    "token": "रहूंगा।",
+    "token_type": "devanagari",
+    "ipa": "rɦuːŋgaː।"
+  },
+  {
+    "token": "दूसरा",
+    "token_type": "devanagari",
+    "ipa": "d̪uːsraː"
+  },
+  {
+    "token": "मैं",
+    "token_type": "devanagari",
+    "ipa": "mɛːŋ"
+  },
+  {
+    "token": "कहता",
+    "token_type": "devanagari",
+    "ipa": "kɦt̪aː"
+  },
+  {
+    "token": "था",
+    "token_type": "devanagari",
+    "ipa": "t̪ʰaː"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "कि",
+    "token_type": "devanagari",
+    "ipa": "kɪ"
+  },
+  {
+    "token": "मैं",
+    "token_type": "devanagari",
+    "ipa": "mɛːŋ"
+  },
+  {
+    "token": "बद",
+    "token_type": "devanagari",
+    "ipa": "bd̪"
+  },
+  {
+    "token": "इरादे",
+    "token_type": "devanagari",
+    "ipa": "ɪraːd̪eː"
+  },
+  {
+    "token": "से",
+    "token_type": "devanagari",
+    "ipa": "seː"
+  },
+  {
+    "token": "कोई",
+    "token_type": "devanagari",
+    "ipa": "koːiː"
+  },
+  {
+    "token": "काम",
+    "token_type": "devanagari",
+    "ipa": "kaːm"
+  },
+  {
+    "token": "नहीं",
+    "token_type": "devanagari",
+    "ipa": "nɦiːŋ"
+  },
+  {
+    "token": "करूँगा",
+    "token_type": "devanagari",
+    "ipa": "kruː̃gaː"
+  },
+  {
+    "token": "और",
+    "token_type": "devanagari",
+    "ipa": "ɔːr"
+  },
+  {
+    "token": "तीसरा",
+    "token_type": "devanagari",
+    "ipa": "t̪iːsraː"
+  },
+  {
+    "token": "मैं",
+    "token_type": "devanagari",
+    "ipa": "mɛːŋ"
+  },
+  {
+    "token": "कहता",
+    "token_type": "devanagari",
+    "ipa": "kɦt̪aː"
+  },
+  {
+    "token": "था",
+    "token_type": "devanagari",
+    "ipa": "t̪ʰaː"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "मेरे",
+    "token_type": "devanagari",
+    "ipa": "meːreː"
+  },
+  {
+    "token": "लिए",
+    "token_type": "devanagari",
+    "ipa": "lɪeː"
+  },
+  {
+    "token": "मैं",
+    "token_type": "devanagari",
+    "ipa": "mɛːŋ"
+  },
+  {
+    "token": "कुछ",
+    "token_type": "devanagari",
+    "ipa": "kʊtʃʰ"
+  },
+  {
+    "token": "नहीं",
+    "token_type": "devanagari",
+    "ipa": "nɦiːŋ"
+  },
+  {
+    "token": "करूँगा",
+    "token_type": "devanagari",
+    "ipa": "kruː̃gaː"
+  },
+  {
+    "token": "आज",
+    "token_type": "devanagari",
+    "ipa": "aːdʒ"
+  },
+  {
+    "token": "मुझे",
+    "token_type": "devanagari",
+    "ipa": "mʊdʒʱeː"
+  },
+  {
+    "token": "24",
+    "token_type": "number",
+    "ipa": "24"
+  },
+  {
+    "token": "साल",
+    "token_type": "devanagari",
+    "ipa": "saːl"
+  },
+  {
+    "token": "हो",
+    "token_type": "devanagari",
+    "ipa": "ɦoː"
+  },
+  {
+    "token": "गए",
+    "token_type": "devanagari",
+    "ipa": "geː"
+  },
+  {
+    "token": "इतने",
+    "token_type": "devanagari",
+    "ipa": "ɪt̪neː"
+  },
+  {
+    "token": "लंबे",
+    "token_type": "devanagari",
+    "ipa": "lŋbeː"
+  },
+  {
+    "token": "कालखन",
+    "token_type": "devanagari",
+    "ipa": "kaːlkʰn"
+  },
+  {
+    "token": "से",
+    "token_type": "devanagari",
+    "ipa": "seː"
+  },
+  {
+    "token": "मैं",
+    "token_type": "devanagari",
+    "ipa": "mɛːŋ"
+  },
+  {
+    "token": "The",
+    "token_type": "english",
+    "ipa": "ðə"
+  },
+  {
+    "token": "head",
+    "token_type": "english",
+    "ipa": "hɛæd"
+  },
+  {
+    "token": "of",
+    "token_type": "english",
+    "ipa": "əv"
+  },
+  {
+    "token": "the",
+    "token_type": "english",
+    "ipa": "ðə"
+  },
+  {
+    "token": "government",
+    "token_type": "english",
+    "ipa": "gɑvɛrnmɛnt"
+  },
+  {
+    "token": "has",
+    "token_type": "english",
+    "ipa": "hæz"
+  },
+  {
+    "token": "given",
+    "token_type": "english",
+    "ipa": "gɪvɛn"
+  },
+  {
+    "token": "me",
+    "token_type": "english",
+    "ipa": "mɛ"
+  },
+  {
+    "token": "work",
+    "token_type": "english",
+    "ipa": "wɑrk"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "I",
+    "token_type": "english",
+    "ipa": "aɪ"
+  },
+  {
+    "token": "have",
+    "token_type": "english",
+    "ipa": "hævɛ"
+  },
+  {
+    "token": "weighed",
+    "token_type": "roman_hindi",
+    "ipa": "ʋeːɪgʱeːd̪"
+  },
+  {
+    "token": "myself",
+    "token_type": "english",
+    "ipa": "mjsɛlf"
+  },
+  {
+    "token": "on",
+    "token_type": "english",
+    "ipa": "ɑn"
+  },
+  {
+    "token": "these",
+    "token_type": "english",
+    "ipa": "ðiːz"
+  },
+  {
+    "token": "three",
+    "token_type": "english",
+    "ipa": "θrɛɛ"
+  },
+  {
+    "token": "pillars",
+    "token_type": "english",
+    "ipa": "pɪllærs"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "And",
+    "token_type": "english",
+    "ipa": "ænd"
+  },
+  {
+    "token": "I",
+    "token_type": "english",
+    "ipa": "aɪ"
+  },
+  {
+    "token": "do",
+    "token_type": "english",
+    "ipa": "duː"
+  },
+  {
+    "token": "that",
+    "token_type": "english",
+    "ipa": "ðæt"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "So",
+    "token_type": "english",
+    "ipa": "soʊ"
+  },
+  {
+    "token": "my",
+    "token_type": "english",
+    "ipa": "maɪ"
+  },
+  {
+    "token": "inspiration",
+    "token_type": "english",
+    "ipa": "ɪnspɪræʃən"
+  },
+  {
+    "token": "is",
+    "token_type": "english",
+    "ipa": "ɪz"
+  },
+  {
+    "token": "1",
+    "token_type": "number",
+    "ipa": "1"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "4",
+    "token_type": "number",
+    "ipa": "4"
+  },
+  {
+    "token": "billion",
+    "token_type": "english",
+    "ipa": "bɪllɪɑn"
+  },
+  {
+    "token": "people",
+    "token_type": "english",
+    "ipa": "pɛɑplɛ"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "लोगों",
+    "token_type": "devanagari",
+    "ipa": "loːgoːŋ"
+  },
+  {
+    "token": "की",
+    "token_type": "devanagari",
+    "ipa": "kiː"
+  },
+  {
+    "token": "सेवा",
+    "token_type": "devanagari",
+    "ipa": "seːʋaː"
+  },
+  {
+    "token": "उनके",
+    "token_type": "devanagari",
+    "ipa": "ʊnkeː"
+  },
+  {
+    "token": "एस्पिरेशन",
+    "token_type": "devanagari",
+    "ipa": "eːs्pɪreːʃn"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "उंकी",
+    "token_type": "devanagari",
+    "ipa": "ʊŋkiː"
+  },
+  {
+    "token": "आवशक्ता",
+    "token_type": "devanagari",
+    "ipa": "aːʋʃk्t̪aː"
+  },
+  {
+    "token": "है।",
+    "token_type": "devanagari",
+    "ipa": "ɦɛː।"
+  },
+  {
+    "token": "जितनी",
+    "token_type": "devanagari",
+    "ipa": "dʒɪt̪niː"
+  },
+  {
+    "token": "मेहनत",
+    "token_type": "devanagari",
+    "ipa": "meːɦnt̪"
+  },
+  {
+    "token": "कर",
+    "token_type": "devanagari",
+    "ipa": "kr"
+  },
+  {
+    "token": "सकूँ",
+    "token_type": "devanagari",
+    "ipa": "skuː̃"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "जीतना",
+    "token_type": "devanagari",
+    "ipa": "dʒiːt̪naː"
+  },
+  {
+    "token": "करसको",
+    "token_type": "devanagari",
+    "ipa": "krskoː"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "मैं",
+    "token_type": "devanagari",
+    "ipa": "mɛːŋ"
+  },
+  {
+    "token": "करने",
+    "token_type": "devanagari",
+    "ipa": "krneː"
+  },
+  {
+    "token": "के",
+    "token_type": "devanagari",
+    "ipa": "keː"
+  },
+  {
+    "token": "मुड़",
+    "token_type": "devanagari",
+    "ipa": "mʊɖ़"
+  },
+  {
+    "token": "में",
+    "token_type": "devanagari",
+    "ipa": "meːŋ"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "आज",
+    "token_type": "devanagari",
+    "ipa": "aːdʒ"
+  },
+  {
+    "token": "भी",
+    "token_type": "devanagari",
+    "ipa": "bʱiː"
+  },
+  {
+    "token": "मैरी",
+    "token_type": "devanagari",
+    "ipa": "mɛːriː"
+  },
+  {
+    "token": "उर्जा",
+    "token_type": "devanagari",
+    "ipa": "ʊr्dʒaː"
+  },
+  {
+    "token": "वो",
+    "token_type": "devanagari",
+    "ipa": "ʋoː"
+  },
+  {
+    "token": "ही",
+    "token_type": "devanagari",
+    "ipa": "ɦiː"
+  },
+  {
+    "token": "है",
+    "token_type": "devanagari",
+    "ipa": "ɦɛː"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "Me",
+    "token_type": "english",
+    "ipa": "mɛ"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "as",
+    "token_type": "english",
+    "ipa": "æs"
+  },
+  {
+    "token": "an",
+    "token_type": "english",
+    "ipa": "ən"
+  },
+  {
+    "token": "engineer",
+    "token_type": "english",
+    "ipa": "ɛŋɪnɛɛr"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "as",
+    "token_type": "english",
+    "ipa": "æs"
+  },
+  {
+    "token": "a",
+    "token_type": "english",
+    "ipa": "ə"
+  },
+  {
+    "token": "person",
+    "token_type": "english",
+    "ipa": "pɛrsɑn"
+  },
+  {
+    "token": "who",
+    "token_type": "english",
+    "ipa": "whɑ"
+  },
+  {
+    "token": "loves",
+    "token_type": "english",
+    "ipa": "lɑvɛs"
+  },
+  {
+    "token": "mathematics",
+    "token_type": "english",
+    "ipa": "mæθɛmætɪks"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "I",
+    "token_type": "english",
+    "ipa": "aɪ"
+  },
+  {
+    "token": "have",
+    "token_type": "english",
+    "ipa": "hævɛ"
+  },
+  {
+    "token": "to",
+    "token_type": "english",
+    "ipa": "tuː"
+  },
+  {
+    "token": "ask",
+    "token_type": "english",
+    "ipa": "æsk"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "Srinivasa",
+    "token_type": "english",
+    "ipa": "srɪnɪvæsæ"
+  },
+  {
+    "token": "Ramanujan",
+    "token_type": "english",
+    "ipa": "ræmænʌdʒæn"
+  },
+  {
+    "token": "is",
+    "token_type": "english",
+    "ipa": "ɪz"
+  },
+  {
+    "token": "an",
+    "token_type": "english",
+    "ipa": "ən"
+  },
+  {
+    "token": "Indian",
+    "token_type": "english",
+    "ipa": "ɪndɪæn"
+  },
+  {
+    "token": "mathematician",
+    "token_type": "english",
+    "ipa": "mæθɛmætɪkɪæn"
+  },
+  {
+    "token": "from",
+    "token_type": "english",
+    "ipa": "frɑm"
+  },
+  {
+    "token": "a",
+    "token_type": "english",
+    "ipa": "ə"
+  },
+  {
+    "token": "century",
+    "token_type": "english",
+    "ipa": "kɛntʌrj"
+  },
+  {
+    "token": "ago",
+    "token_type": "english",
+    "ipa": "ægɑ"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "He's",
+    "token_type": "english",
+    "ipa": "hɛ's"
+  },
+  {
+    "token": "widely",
+    "token_type": "english",
+    "ipa": "wɪdɛlj"
+  },
+  {
+    "token": "considered",
+    "token_type": "english",
+    "ipa": "kɑnsɪdɛrɛd"
+  },
+  {
+    "token": "to",
+    "token_type": "english",
+    "ipa": "tuː"
+  },
+  {
+    "token": "be",
+    "token_type": "english",
+    "ipa": "bɛ"
+  },
+  {
+    "token": "one",
+    "token_type": "english",
+    "ipa": "wʌn"
+  },
+  {
+    "token": "of",
+    "token_type": "english",
+    "ipa": "əv"
+  },
+  {
+    "token": "the",
+    "token_type": "english",
+    "ipa": "ðə"
+  },
+  {
+    "token": "greatest",
+    "token_type": "english",
+    "ipa": "grɛætɛst"
+  },
+  {
+    "token": "mathematicians",
+    "token_type": "english",
+    "ipa": "mæθɛmætɪkɪæns"
+  },
+  {
+    "token": "of",
+    "token_type": "english",
+    "ipa": "əv"
+  },
+  {
+    "token": "all",
+    "token_type": "english",
+    "ipa": "ɔːl"
+  },
+  {
+    "token": "time",
+    "token_type": "english",
+    "ipa": "tɪmɛ"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "self",
+    "token_type": "english",
+    "ipa": "sɛlf"
+  },
+  {
+    "token": "-",
+    "token_type": "punct",
+    "ipa": "-"
+  },
+  {
+    "token": "taught",
+    "token_type": "roman_hindi",
+    "ipa": "t̪ɔːgʱt̪"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "grew",
+    "token_type": "english",
+    "ipa": "grɛw"
+  },
+  {
+    "token": "up",
+    "token_type": "english",
+    "ipa": "ʌp"
+  },
+  {
+    "token": "in",
+    "token_type": "english",
+    "ipa": "ɪn"
+  },
+  {
+    "token": "poverty",
+    "token_type": "english",
+    "ipa": "pɑvɛrtj"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "You",
+    "token_type": "english",
+    "ipa": "jɑʌ"
+  },
+  {
+    "token": "have",
+    "token_type": "english",
+    "ipa": "hævɛ"
+  },
+  {
+    "token": "often",
+    "token_type": "english",
+    "ipa": "ɑftɛn"
+  },
+  {
+    "token": "spoken",
+    "token_type": "english",
+    "ipa": "spɑkɛn"
+  },
+  {
+    "token": "about",
+    "token_type": "english",
+    "ipa": "æbɑʌt"
+  },
+  {
+    "token": "him",
+    "token_type": "english",
+    "ipa": "hɪm"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "What",
+    "token_type": "english",
+    "ipa": "wʌt"
+  },
+  {
+    "token": "do",
+    "token_type": "english",
+    "ipa": "duː"
+  },
+  {
+    "token": "you",
+    "token_type": "english",
+    "ipa": "jɑʌ"
+  },
+  {
+    "token": "find",
+    "token_type": "english",
+    "ipa": "fɪnd"
+  },
+  {
+    "token": "inspiring",
+    "token_type": "english",
+    "ipa": "ɪnspɪrɪŋ"
+  },
+  {
+    "token": "about",
+    "token_type": "english",
+    "ipa": "æbɑʌt"
+  },
+  {
+    "token": "him",
+    "token_type": "english",
+    "ipa": "hɪm"
+  },
+  {
+    "token": "?",
+    "token_type": "punct",
+    "ipa": "?"
+  },
+  {
+    "token": "Science",
+    "token_type": "english",
+    "ipa": "skɪɛnkɛ"
+  },
+  {
+    "token": "and",
+    "token_type": "english",
+    "ipa": "ænd"
+  },
+  {
+    "token": "spirituality",
+    "token_type": "english",
+    "ipa": "spɪrɪtʌælɪtj"
+  },
+  {
+    "token": "are",
+    "token_type": "english",
+    "ipa": "ɑːɹ"
+  },
+  {
+    "token": "very",
+    "token_type": "english",
+    "ipa": "vɛrj"
+  },
+  {
+    "token": "connected",
+    "token_type": "english",
+    "ipa": "kɑnnɛktɛd"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "says",
+    "token_type": "english",
+    "ipa": "sæjs"
+  },
+  {
+    "token": "Scientific",
+    "token_type": "english",
+    "ipa": "skɪɛntɪfɪk"
+  },
+  {
+    "token": "Advanced",
+    "token_type": "english",
+    "ipa": "ædvænkɛd"
+  },
+  {
+    "token": "Minds",
+    "token_type": "english",
+    "ipa": "mɪnds"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "spiritually",
+    "token_type": "english",
+    "ipa": "spɪrɪtʌællj"
+  },
+  {
+    "token": "advanced",
+    "token_type": "english",
+    "ipa": "ædvænkɛd"
+  },
+  {
+    "token": "So",
+    "token_type": "english",
+    "ipa": "soʊ"
+  },
+  {
+    "token": "I",
+    "token_type": "english",
+    "ipa": "aɪ"
+  },
+  {
+    "token": "got",
+    "token_type": "english",
+    "ipa": "gɑt"
+  },
+  {
+    "token": "up",
+    "token_type": "english",
+    "ipa": "ʌp"
+  },
+  {
+    "token": "and",
+    "token_type": "english",
+    "ipa": "ænd"
+  },
+  {
+    "token": "knew",
+    "token_type": "english",
+    "ipa": "knɛw"
+  },
+  {
+    "token": "it",
+    "token_type": "english",
+    "ipa": "ɪt"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "हुआ",
+    "token_type": "devanagari",
+    "ipa": "ɦʊaː"
+  },
+  {
+    "token": "था",
+    "token_type": "devanagari",
+    "ipa": "t̪ʰaː"
+  },
+  {
+    "token": "स्री",
+    "token_type": "devanagari",
+    "ipa": "s्riː"
+  },
+  {
+    "token": "निवास",
+    "token_type": "devanagari",
+    "ipa": "nɪʋaːs"
+  },
+  {
+    "token": "रमानुजम",
+    "token_type": "devanagari",
+    "ipa": "rmaːnʊdʒm"
+  },
+  {
+    "token": "कहते",
+    "token_type": "devanagari",
+    "ipa": "kɦt̪eː"
+  },
+  {
+    "token": "थे",
+    "token_type": "devanagari",
+    "ipa": "t̪ʰeː"
+  },
+  {
+    "token": "कि",
+    "token_type": "devanagari",
+    "ipa": "kɪ"
+  },
+  {
+    "token": "उन्हें",
+    "token_type": "devanagari",
+    "ipa": "ʊn्ɦeːŋ"
+  },
+  {
+    "token": "उद्देवी",
+    "token_type": "devanagari",
+    "ipa": "ʊd्̪d̪eːʋiː"
+  },
+  {
+    "token": "से",
+    "token_type": "devanagari",
+    "ipa": "seː"
+  },
+  {
+    "token": "आते",
+    "token_type": "devanagari",
+    "ipa": "aːt̪eː"
+  },
+  {
+    "token": "हैं",
+    "token_type": "devanagari",
+    "ipa": "ɦɛːŋ"
+  },
+  {
+    "token": "जिसकी",
+    "token_type": "devanagari",
+    "ipa": "dʒɪskiː"
+  },
+  {
+    "token": "वो",
+    "token_type": "devanagari",
+    "ipa": "ʋoː"
+  },
+  {
+    "token": "पूजा",
+    "token_type": "devanagari",
+    "ipa": "puːdʒaː"
+  },
+  {
+    "token": "करते",
+    "token_type": "devanagari",
+    "ipa": "krt̪eː"
+  },
+  {
+    "token": "Khud",
+    "token_type": "roman_hindi",
+    "ipa": "kʰʊd̪"
+  },
+  {
+    "token": "ko",
+    "token_type": "english",
+    "ipa": "kɑ"
+  },
+  {
+    "token": "devote",
+    "token_type": "english",
+    "ipa": "dɛvɑtɛ"
+  },
+  {
+    "token": "kardena",
+    "token_type": "english",
+    "ipa": "kærdɛnæ"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "khud",
+    "token_type": "roman_hindi",
+    "ipa": "kʰʊd̪"
+  },
+  {
+    "token": "ko",
+    "token_type": "english",
+    "ipa": "kɑ"
+  },
+  {
+    "token": "khapa",
+    "token_type": "roman_hindi",
+    "ipa": "kʰəpə"
+  },
+  {
+    "token": "dena",
+    "token_type": "english",
+    "ipa": "dɛnæ"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "svayam",
+    "token_type": "english",
+    "ipa": "svæjæm"
+  },
+  {
+    "token": "hi",
+    "token_type": "english",
+    "ipa": "hɪ"
+  },
+  {
+    "token": "jase",
+    "token_type": "english",
+    "ipa": "dʒæsɛ"
+  },
+  {
+    "token": "wo",
+    "token_type": "english",
+    "ipa": "wɑ"
+  },
+  {
+    "token": "karya",
+    "token_type": "english",
+    "ipa": "kærjæ"
+  },
+  {
+    "token": "ka",
+    "token_type": "roman_hindi",
+    "ipa": "kə"
+  },
+  {
+    "token": "roop",
+    "token_type": "english",
+    "ipa": "rɑɑp"
+  },
+  {
+    "token": "banjaya",
+    "token_type": "english",
+    "ipa": "bændʒæjæ"
+  },
+  {
+    "token": "hai",
+    "token_type": "roman_hindi",
+    "ipa": "ɦɛː"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "Aur",
+    "token_type": "english",
+    "ipa": "æʌr"
+  },
+  {
+    "token": "hum",
+    "token_type": "roman_hindi",
+    "ipa": "ɦʊm"
+  },
+  {
+    "token": "knowledge",
+    "token_type": "english",
+    "ipa": "knɑwlɛdgɛ"
+  },
+  {
+    "token": "ke",
+    "token_type": "roman_hindi",
+    "ipa": "keː"
+  },
+  {
+    "token": "jitne",
+    "token_type": "english",
+    "ipa": "dʒɪtnɛ"
+  },
+  {
+    "token": "jyada",
+    "token_type": "english",
+    "ipa": "dʒjædæ"
+  },
+  {
+    "token": "Thank",
+    "token_type": "english",
+    "ipa": "θænk"
+  },
+  {
+    "token": "you",
+    "token_type": "english",
+    "ipa": "jɑʌ"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "knowledge",
+    "token_type": "english",
+    "ipa": "knɑwlɛdgɛ"
+  },
+  {
+    "token": "के",
+    "token_type": "devanagari",
+    "ipa": "keː"
+  },
+  {
+    "token": "बीच",
+    "token_type": "devanagari",
+    "ipa": "biːtʃ"
+  },
+  {
+    "token": "में",
+    "token_type": "devanagari",
+    "ipa": "meːŋ"
+  },
+  {
+    "token": "फर्क",
+    "token_type": "devanagari",
+    "ipa": "pʰr्k"
+  },
+  {
+    "token": "करने",
+    "token_type": "devanagari",
+    "ipa": "krneː"
+  },
+  {
+    "token": "से",
+    "token_type": "devanagari",
+    "ipa": "seː"
+  },
+  {
+    "token": "भी",
+    "token_type": "devanagari",
+    "ipa": "bʱiː"
+  },
+  {
+    "token": "समझना",
+    "token_type": "devanagari",
+    "ipa": "smdʒʱnaː"
+  },
+  {
+    "token": "चाहिए",
+    "token_type": "devanagari",
+    "ipa": "tʃaːɦɪeː"
+  },
+  {
+    "token": "करें",
+    "token_type": "devanagari",
+    "ipa": "kreːŋ"
+  },
+  {
+    "token": "कुछ",
+    "token_type": "devanagari",
+    "ipa": "kʊtʃʰ"
+  },
+  {
+    "token": "लोग",
+    "token_type": "devanagari",
+    "ipa": "loːg"
+  },
+  {
+    "token": "information",
+    "token_type": "english",
+    "ipa": "ɪnfɑrmæʃən"
+  },
+  {
+    "token": "को",
+    "token_type": "devanagari",
+    "ipa": "koː"
+  },
+  {
+    "token": "knowledge",
+    "token_type": "english",
+    "ipa": "knɑwlɛdgɛ"
+  },
+  {
+    "token": "मानते",
+    "token_type": "devanagari",
+    "ipa": "maːnt̪eː"
+  },
+  {
+    "token": "हैं",
+    "token_type": "devanagari",
+    "ipa": "ɦɛːŋ"
+  },
+  {
+    "token": "सिंग्ग",
+    "token_type": "devanagari",
+    "ipa": "sɪŋg्g"
+  },
+  {
+    "token": "के",
+    "token_type": "devanagari",
+    "ipa": "keː"
+  },
+  {
+    "token": "बाद",
+    "token_type": "devanagari",
+    "ipa": "baːd̪"
+  },
+  {
+    "token": "धिरे",
+    "token_type": "devanagari",
+    "ipa": "d̪ʱɪreː"
+  },
+  {
+    "token": "-",
+    "token_type": "punct",
+    "ipa": "-"
+  },
+  {
+    "token": "धीरे",
+    "token_type": "devanagari",
+    "ipa": "d̪ʱiːreː"
+  },
+  {
+    "token": "इवॉल्व",
+    "token_type": "devanagari",
+    "ipa": "ɪʋॉl्ʋ"
+  },
+  {
+    "token": "होती",
+    "token_type": "devanagari",
+    "ipa": "ɦoːt̪iː"
+  },
+  {
+    "token": "और",
+    "token_type": "devanagari",
+    "ipa": "ɔːr"
+  },
+  {
+    "token": "उसको",
+    "token_type": "devanagari",
+    "ipa": "ʊskoː"
+  },
+  {
+    "token": "हमने",
+    "token_type": "devanagari",
+    "ipa": "ɦmneː"
+  },
+  {
+    "token": "You",
+    "token_type": "english",
+    "ipa": "jɑʌ"
+  },
+  {
+    "token": "have",
+    "token_type": "english",
+    "ipa": "hævɛ"
+  },
+  {
+    "token": "a",
+    "token_type": "english",
+    "ipa": "ə"
+  },
+  {
+    "token": "reputation",
+    "token_type": "english",
+    "ipa": "rɛpʌtæʃən"
+  },
+  {
+    "token": "for",
+    "token_type": "english",
+    "ipa": "fɔːɹ"
+  },
+  {
+    "token": "being",
+    "token_type": "english",
+    "ipa": "bɛɪŋ"
+  },
+  {
+    "token": "a",
+    "token_type": "english",
+    "ipa": "ə"
+  },
+  {
+    "token": "decisive",
+    "token_type": "english",
+    "ipa": "dɛkɪsɪvɛ"
+  },
+  {
+    "token": "leader",
+    "token_type": "english",
+    "ipa": "lɛædɛr"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "So",
+    "token_type": "english",
+    "ipa": "soʊ"
+  },
+  {
+    "token": "can",
+    "token_type": "english",
+    "ipa": "kæn"
+  },
+  {
+    "token": "you",
+    "token_type": "english",
+    "ipa": "jɑʌ"
+  },
+  {
+    "token": "walk",
+    "token_type": "english",
+    "ipa": "wælk"
+  },
+  {
+    "token": "me",
+    "token_type": "english",
+    "ipa": "mɛ"
+  },
+  {
+    "token": "through",
+    "token_type": "roman_hindi",
+    "ipa": "tʰroːʊgʱ"
+  },
+  {
+    "token": "on",
+    "token_type": "english",
+    "ipa": "ɑn"
+  },
+  {
+    "token": "this",
+    "token_type": "english",
+    "ipa": "ðɪs"
+  },
+  {
+    "token": "topic",
+    "token_type": "english",
+    "ipa": "tɑpɪk"
+  },
+  {
+    "token": "of",
+    "token_type": "english",
+    "ipa": "əv"
+  },
+  {
+    "token": "ideas",
+    "token_type": "english",
+    "ipa": "ɪdɛæs"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "how",
+    "token_type": "english",
+    "ipa": "hɑw"
+  },
+  {
+    "token": "you",
+    "token_type": "english",
+    "ipa": "jɑʌ"
+  },
+  {
+    "token": "make",
+    "token_type": "english",
+    "ipa": "mækɛ"
+  },
+  {
+    "token": "decisions",
+    "token_type": "english",
+    "ipa": "dɛkɪʒəns"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "what's",
+    "token_type": "english",
+    "ipa": "whæt's"
+  },
+  {
+    "token": "your",
+    "token_type": "english",
+    "ipa": "jɑʌr"
+  },
+  {
+    "token": "process",
+    "token_type": "english",
+    "ipa": "prɑkɛss"
+  },
+  {
+    "token": "?",
+    "token_type": "punct",
+    "ipa": "?"
+  },
+  {
+    "token": "So",
+    "token_type": "english",
+    "ipa": "soʊ"
+  },
+  {
+    "token": "for",
+    "token_type": "english",
+    "ipa": "fɔːɹ"
+  },
+  {
+    "token": "instance",
+    "token_type": "english",
+    "ipa": "ɪnstænkɛ"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "when",
+    "token_type": "english",
+    "ipa": "wɛn"
+  },
+  {
+    "token": "facing",
+    "token_type": "english",
+    "ipa": "fækɪŋ"
+  },
+  {
+    "token": "a",
+    "token_type": "english",
+    "ipa": "ə"
+  },
+  {
+    "token": "high",
+    "token_type": "roman_hindi",
+    "ipa": "ɦɪgʱ"
+  },
+  {
+    "token": "stakes",
+    "token_type": "english",
+    "ipa": "stækɛs"
+  },
+  {
+    "token": "choice",
+    "token_type": "english",
+    "ipa": "tʃɑɪkɛ"
+  },
+  {
+    "token": "with",
+    "token_type": "english",
+    "ipa": "wɪθ"
+  },
+  {
+    "token": "no",
+    "token_type": "english",
+    "ipa": "nɑ"
+  },
+  {
+    "token": "clear",
+    "token_type": "english",
+    "ipa": "klɛær"
+  },
+  {
+    "token": "precedence",
+    "token_type": "english",
+    "ipa": "prɛkɛdɛnkɛ"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "you",
+    "token_type": "english",
+    "ipa": "jɑʌ"
+  },
+  {
+    "token": "know",
+    "token_type": "english",
+    "ipa": "noʊ"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "a",
+    "token_type": "english",
+    "ipa": "ə"
+  },
+  {
+    "token": "lot",
+    "token_type": "english",
+    "ipa": "lɑt"
+  },
+  {
+    "token": "of",
+    "token_type": "english",
+    "ipa": "əv"
+  },
+  {
+    "token": "uncertainty",
+    "token_type": "english",
+    "ipa": "ʌnkɛrtæɪntj"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "having",
+    "token_type": "english",
+    "ipa": "hævɪŋ"
+  },
+  {
+    "token": "to",
+    "token_type": "english",
+    "ipa": "tuː"
+  },
+  {
+    "token": "balance",
+    "token_type": "english",
+    "ipa": "bælænkɛ"
+  },
+  {
+    "token": "a",
+    "token_type": "english",
+    "ipa": "ə"
+  },
+  {
+    "token": "input",
+    "token_type": "english",
+    "ipa": "ɪnpʌt"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "how",
+    "token_type": "english",
+    "ipa": "hɑw"
+  },
+  {
+    "token": "do",
+    "token_type": "english",
+    "ipa": "duː"
+  },
+  {
+    "token": "you",
+    "token_type": "english",
+    "ipa": "jɑʌ"
+  },
+  {
+    "token": "make",
+    "token_type": "english",
+    "ipa": "mækɛ"
+  },
+  {
+    "token": "decisions",
+    "token_type": "english",
+    "ipa": "dɛkɪʒəns"
+  },
+  {
+    "token": "?",
+    "token_type": "punct",
+    "ipa": "?"
+  },
+  {
+    "token": "शायद",
+    "token_type": "devanagari",
+    "ipa": "ʃaːjd̪"
+  },
+  {
+    "token": "हिंदुस्तान",
+    "token_type": "devanagari",
+    "ipa": "ɦɪŋd̪ʊs्t̪aːn"
+  },
+  {
+    "token": "में",
+    "token_type": "devanagari",
+    "ipa": "meːŋ"
+  },
+  {
+    "token": "मैं",
+    "token_type": "devanagari",
+    "ipa": "mɛːŋ"
+  },
+  {
+    "token": "एक",
+    "token_type": "devanagari",
+    "ipa": "eːk"
+  },
+  {
+    "token": "ऐसा",
+    "token_type": "devanagari",
+    "ipa": "ɛːsaː"
+  },
+  {
+    "token": "पोलिटिशन",
+    "token_type": "devanagari",
+    "ipa": "poːlɪʈɪʃn"
+  },
+  {
+    "token": "हूँ",
+    "token_type": "devanagari",
+    "ipa": "ɦuː̃"
+  },
+  {
+    "token": "जो",
+    "token_type": "devanagari",
+    "ipa": "dʒoː"
+  },
+  {
+    "token": "मेरे",
+    "token_type": "devanagari",
+    "ipa": "meːreː"
+  },
+  {
+    "token": "देश",
+    "token_type": "devanagari",
+    "ipa": "d̪eːʃ"
+  },
+  {
+    "token": "के",
+    "token_type": "devanagari",
+    "ipa": "keː"
+  },
+  {
+    "token": "हैं",
+    "token_type": "devanagari",
+    "ipa": "ɦɛːŋ"
+  },
+  {
+    "token": "85",
+    "token_type": "number",
+    "ipa": "85"
+  },
+  {
+    "token": "to",
+    "token_type": "english",
+    "ipa": "tuː"
+  },
+  {
+    "token": "90",
+    "token_type": "number",
+    "ipa": "90"
+  },
+  {
+    "token": "%",
+    "token_type": "punct",
+    "ipa": "%"
+  },
+  {
+    "token": "distance",
+    "token_type": "english",
+    "ipa": "dɪstænkɛ"
+  },
+  {
+    "token": "उससे",
+    "token_type": "devanagari",
+    "ipa": "ʊsseː"
+  },
+  {
+    "token": "जो",
+    "token_type": "devanagari",
+    "ipa": "dʒoː"
+  },
+  {
+    "token": "मैंने",
+    "token_type": "devanagari",
+    "ipa": "mɛːŋneː"
+  },
+  {
+    "token": "पाया",
+    "token_type": "devanagari",
+    "ipa": "paːjaː"
+  },
+  {
+    "token": "है",
+    "token_type": "devanagari",
+    "ipa": "ɦɛː"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "वो",
+    "token_type": "devanagari",
+    "ipa": "ʋoː"
+  },
+  {
+    "token": "जब",
+    "token_type": "devanagari",
+    "ipa": "dʒb"
+  },
+  {
+    "token": "सिखा",
+    "token_type": "devanagari",
+    "ipa": "sɪkʰaː"
+  },
+  {
+    "token": "हुआ",
+    "token_type": "devanagari",
+    "ipa": "ɦʊaː"
+  },
+  {
+    "token": "है।",
+    "token_type": "devanagari",
+    "ipa": "ɦɛː।"
+  },
+  {
+    "token": "तो",
+    "token_type": "devanagari",
+    "ipa": "t̪oː"
+  },
+  {
+    "token": "मेरे",
+    "token_type": "devanagari",
+    "ipa": "meːreː"
+  },
+  {
+    "token": "पास",
+    "token_type": "devanagari",
+    "ipa": "paːs"
+  },
+  {
+    "token": "वो",
+    "token_type": "devanagari",
+    "ipa": "ʋoː"
+  },
+  {
+    "token": "एक",
+    "token_type": "devanagari",
+    "ipa": "eːk"
+  },
+  {
+    "token": "बहुत",
+    "token_type": "devanagari",
+    "ipa": "bɦʊt̪"
+  },
+  {
+    "token": "बड़ा",
+    "token_type": "devanagari",
+    "ipa": "bɖ़aː"
+  },
+  {
+    "token": "चीजों",
+    "token_type": "devanagari",
+    "ipa": "tʃiːdʒoːŋ"
+  },
+  {
+    "token": "को",
+    "token_type": "devanagari",
+    "ipa": "koː"
+  },
+  {
+    "token": "ग्रास्रूट",
+    "token_type": "devanagari",
+    "ipa": "g्raːs्ruːʈ"
+  },
+  {
+    "token": "लेवल",
+    "token_type": "devanagari",
+    "ipa": "leːʋl"
+  },
+  {
+    "token": "पर",
+    "token_type": "devanagari",
+    "ipa": "pr"
+  },
+  {
+    "token": "स्थितियों",
+    "token_type": "devanagari",
+    "ipa": "s्t̪ʰɪt̪ɪjoːŋ"
+  },
+  {
+    "token": "From",
+    "token_type": "english",
+    "ipa": "frɑm"
+  },
+  {
+    "token": "the",
+    "token_type": "english",
+    "ipa": "ðə"
+  },
+  {
+    "token": "perspective",
+    "token_type": "english",
+    "ipa": "pɛrspɛktɪvɛ"
+  },
+  {
+    "token": "of",
+    "token_type": "english",
+    "ipa": "əv"
+  },
+  {
+    "token": "governance",
+    "token_type": "english",
+    "ipa": "gɑvɛrnænkɛ"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "I",
+    "token_type": "english",
+    "ipa": "aɪ"
+  },
+  {
+    "token": "don't",
+    "token_type": "english",
+    "ipa": "dɑn't"
+  },
+  {
+    "token": "have",
+    "token_type": "english",
+    "ipa": "hævɛ"
+  },
+  {
+    "token": "any",
+    "token_type": "english",
+    "ipa": "ænj"
+  },
+  {
+    "token": "kind",
+    "token_type": "english",
+    "ipa": "kaɪnd"
+  },
+  {
+    "token": "of",
+    "token_type": "english",
+    "ipa": "əv"
+  },
+  {
+    "token": "baggage",
+    "token_type": "english",
+    "ipa": "bæggægɛ"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "नहीं",
+    "token_type": "devanagari",
+    "ipa": "nɦiːŋ"
+  },
+  {
+    "token": "है।",
+    "token_type": "devanagari",
+    "ipa": "ɦɛː।"
+  },
+  {
+    "token": "मेरा",
+    "token_type": "devanagari",
+    "ipa": "meːraː"
+  },
+  {
+    "token": "देश",
+    "token_type": "devanagari",
+    "ipa": "d̪eːʃ"
+  },
+  {
+    "token": "सबसे",
+    "token_type": "devanagari",
+    "ipa": "sbseː"
+  },
+  {
+    "token": "पहले",
+    "token_type": "devanagari",
+    "ipa": "pɦleː"
+  },
+  {
+    "token": "मैं",
+    "token_type": "devanagari",
+    "ipa": "mɛːŋ"
+  },
+  {
+    "token": "जो",
+    "token_type": "devanagari",
+    "ipa": "dʒoː"
+  },
+  {
+    "token": "कर",
+    "token_type": "devanagari",
+    "ipa": "kr"
+  },
+  {
+    "token": "रहा",
+    "token_type": "devanagari",
+    "ipa": "rɦaː"
+  },
+  {
+    "token": "हूँ",
+    "token_type": "devanagari",
+    "ipa": "ɦuː̃"
+  },
+  {
+    "token": "वेरे",
+    "token_type": "devanagari",
+    "ipa": "ʋeːreː"
+  },
+  {
+    "token": "दिश",
+    "token_type": "devanagari",
+    "ipa": "d̪ɪʃ"
+  },
+  {
+    "token": "का",
+    "token_type": "devanagari",
+    "ipa": "kaː"
+  },
+  {
+    "token": "नुक्षान",
+    "token_type": "devanagari",
+    "ipa": "nʊk्ʂaːn"
+  },
+  {
+    "token": "तो",
+    "token_type": "devanagari",
+    "ipa": "t̪oː"
+  },
+  {
+    "token": "नहीं",
+    "token_type": "devanagari",
+    "ipa": "nɦiːŋ"
+  },
+  {
+    "token": "हो",
+    "token_type": "devanagari",
+    "ipa": "ɦoː"
+  },
+  {
+    "token": "रखा",
+    "token_type": "devanagari",
+    "ipa": "rkʰaː"
+  },
+  {
+    "token": "है",
+    "token_type": "devanagari",
+    "ipa": "ɦɛː"
+  },
+  {
+    "token": "दूसरा",
+    "token_type": "devanagari",
+    "ipa": "d̪uːsraː"
+  },
+  {
+    "token": "हमारी",
+    "token_type": "devanagari",
+    "ipa": "ɦmaːriː"
+  },
+  {
+    "token": "या",
+    "token_type": "devanagari",
+    "ipa": "jaː"
+  },
+  {
+    "token": "महत्मा",
+    "token_type": "devanagari",
+    "ipa": "mɦt्̪maː"
+  },
+  {
+    "token": "गांधी",
+    "token_type": "devanagari",
+    "ipa": "gaːŋd̪ʱiː"
+  },
+  {
+    "token": "कहते",
+    "token_type": "devanagari",
+    "ipa": "kɦt̪eː"
+  },
+  {
+    "token": "थे",
+    "token_type": "devanagari",
+    "ipa": "t̪ʰeː"
+  },
+  {
+    "token": "कि",
+    "token_type": "devanagari",
+    "ipa": "kɪ"
+  },
+  {
+    "token": "तुम्हें",
+    "token_type": "devanagari",
+    "ipa": "t̪ʊm्ɦeːŋ"
+  },
+  {
+    "token": "कोई",
+    "token_type": "devanagari",
+    "ipa": "koːiː"
+  },
+  {
+    "token": "निर्णे",
+    "token_type": "devanagari",
+    "ipa": "nɪr्ɳeː"
+  },
+  {
+    "token": "करते",
+    "token_type": "devanagari",
+    "ipa": "krt̪eː"
+  },
+  {
+    "token": "हैं",
+    "token_type": "devanagari",
+    "ipa": "ɦɛːŋ"
+  },
+  {
+    "token": "समय",
+    "token_type": "devanagari",
+    "ipa": "smj"
+  },
+  {
+    "token": "को",
+    "token_type": "devanagari",
+    "ipa": "koː"
+  },
+  {
+    "token": "उल्जन",
+    "token_type": "devanagari",
+    "ipa": "ʊl्dʒn"
+  },
+  {
+    "token": "हो",
+    "token_type": "devanagari",
+    "ipa": "ɦoː"
+  },
+  {
+    "token": "तो",
+    "token_type": "devanagari",
+    "ipa": "t̪oː"
+  },
+  {
+    "token": "किसी",
+    "token_type": "devanagari",
+    "ipa": "kɪsiː"
+  },
+  {
+    "token": "गरीपे",
+    "token_type": "devanagari",
+    "ipa": "griːpeː"
+  },
+  {
+    "token": "चेहरा",
+    "token_type": "devanagari",
+    "ipa": "tʃeːɦraː"
+  },
+  {
+    "token": "देख",
+    "token_type": "devanagari",
+    "ipa": "d̪eːkʰ"
+  },
+  {
+    "token": "लो",
+    "token_type": "devanagari",
+    "ipa": "loː"
+  },
+  {
+    "token": "इनको",
+    "token_type": "devanagari",
+    "ipa": "ɪnkoː"
+  },
+  {
+    "token": "याद",
+    "token_type": "devanagari",
+    "ipa": "jaːd̪"
+  },
+  {
+    "token": "करो",
+    "token_type": "devanagari",
+    "ipa": "kroː"
+  },
+  {
+    "token": "और",
+    "token_type": "devanagari",
+    "ipa": "ɔːr"
+  },
+  {
+    "token": "सोचो",
+    "token_type": "devanagari",
+    "ipa": "soːtʃoː"
+  },
+  {
+    "token": "वे",
+    "token_type": "devanagari",
+    "ipa": "ʋeː"
+  },
+  {
+    "token": "उसके",
+    "token_type": "devanagari",
+    "ipa": "ʊskeː"
+  },
+  {
+    "token": "काम",
+    "token_type": "devanagari",
+    "ipa": "kaːm"
+  },
+  {
+    "token": "आएगा",
+    "token_type": "devanagari",
+    "ipa": "aːeːgaː"
+  },
+  {
+    "token": "क्या",
+    "token_type": "devanagari",
+    "ipa": "k्jaː"
+  },
+  {
+    "token": "तब",
+    "token_type": "devanagari",
+    "ipa": "t̪b"
+  },
+  {
+    "token": "नेड़े",
+    "token_type": "devanagari",
+    "ipa": "neːɖ़eː"
+  },
+  {
+    "token": "स",
+    "token_type": "devanagari",
+    "ipa": "s"
+  },
+  {
+    "token": "दूसरे",
+    "token_type": "devanagari",
+    "ipa": "d̪uːsreː"
+  },
+  {
+    "token": "प्रक्रियाजे",
+    "token_type": "devanagari",
+    "ipa": "p्rk्rɪjaːdʒeː"
+  },
+  {
+    "token": "सहातर",
+    "token_type": "devanagari",
+    "ipa": "sɦaːt̪r"
+  },
+  {
+    "token": "कहें",
+    "token_type": "devanagari",
+    "ipa": "kɦeːŋ"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "कि",
+    "token_type": "devanagari",
+    "ipa": "kɪ"
+  },
+  {
+    "token": "मैं",
+    "token_type": "devanagari",
+    "ipa": "mɛːŋ"
+  },
+  {
+    "token": "बहुत",
+    "token_type": "devanagari",
+    "ipa": "bɦʊt̪"
+  },
+  {
+    "token": "ही",
+    "token_type": "devanagari",
+    "ipa": "ɦiː"
+  },
+  {
+    "token": "बैल",
+    "token_type": "devanagari",
+    "ipa": "bɛːl"
+  },
+  {
+    "token": "कनेक्टेड",
+    "token_type": "devanagari",
+    "ipa": "kneːk्ʈeːɖ"
+  },
+  {
+    "token": "हूँ",
+    "token_type": "devanagari",
+    "ipa": "ɦuː̃"
+  },
+  {
+    "token": "मेरी",
+    "token_type": "devanagari",
+    "ipa": "meːriː"
+  },
+  {
+    "token": "सरकान",
+    "token_type": "devanagari",
+    "ipa": "srkaːn"
+  },
+  {
+    "token": "में",
+    "token_type": "devanagari",
+    "ipa": "meːŋ"
+  },
+  {
+    "token": "मेरे",
+    "token_type": "devanagari",
+    "ipa": "meːreː"
+  },
+  {
+    "token": "अफसरों",
+    "token_type": "devanagari",
+    "ipa": "əpʰsroːŋ"
+  },
+  {
+    "token": "को",
+    "token_type": "devanagari",
+    "ipa": "koː"
+  },
+  {
+    "token": "ये",
+    "token_type": "devanagari",
+    "ipa": "jeː"
+  },
+  {
+    "token": "को",
+    "token_type": "devanagari",
+    "ipa": "koː"
+  },
+  {
+    "token": "मेरे",
+    "token_type": "devanagari",
+    "ipa": "meːreː"
+  },
+  {
+    "token": "प्रते",
+    "token_type": "devanagari",
+    "ipa": "p्rt̪eː"
+  },
+  {
+    "token": "इर्शा",
+    "token_type": "devanagari",
+    "ipa": "ɪr्ʃaː"
+  },
+  {
+    "token": "भी",
+    "token_type": "devanagari",
+    "ipa": "bʱiː"
+  },
+  {
+    "token": "होती",
+    "token_type": "devanagari",
+    "ipa": "ɦoːt̪iː"
+  },
+  {
+    "token": "ओगी।",
+    "token_type": "devanagari",
+    "ipa": "oːgiː।"
+  },
+  {
+    "token": "और",
+    "token_type": "devanagari",
+    "ipa": "ɔːr"
+  },
+  {
+    "token": "उनको",
+    "token_type": "devanagari",
+    "ipa": "ʊnkoː"
+  },
+  {
+    "token": "तकलीब",
+    "token_type": "devanagari",
+    "ipa": "t̪kliːb"
+  },
+  {
+    "token": "भी",
+    "token_type": "devanagari",
+    "ipa": "bʱiː"
+  },
+  {
+    "token": "होती",
+    "token_type": "devanagari",
+    "ipa": "ɦoːt̪iː"
+  },
+  {
+    "token": "हुगी",
+    "token_type": "devanagari",
+    "ipa": "ɦʊgiː"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "औड़",
+    "token_type": "devanagari",
+    "ipa": "ɔːɖ़"
+  },
+  {
+    "token": "वो",
+    "token_type": "devanagari",
+    "ipa": "ʋoː"
+  },
+  {
+    "token": "है",
+    "token_type": "devanagari",
+    "ipa": "ɦɛː"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "मेरे",
+    "token_type": "devanagari",
+    "ipa": "meːreː"
+  },
+  {
+    "token": "your",
+    "token_type": "english",
+    "ipa": "jɑʌr"
+  },
+  {
+    "token": "information",
+    "token_type": "english",
+    "ipa": "ɪnfɑrmæʃən"
+  },
+  {
+    "token": "channel",
+    "token_type": "english",
+    "ipa": "tʃænnɛl"
+  },
+  {
+    "token": "बहुत",
+    "token_type": "devanagari",
+    "ipa": "bɦʊt̪"
+  },
+  {
+    "token": "है",
+    "token_type": "devanagari",
+    "ipa": "ɦɛː"
+  },
+  {
+    "token": "और",
+    "token_type": "devanagari",
+    "ipa": "ɔːr"
+  },
+  {
+    "token": "वो",
+    "token_type": "devanagari",
+    "ipa": "ʋoː"
+  },
+  {
+    "token": "लाई",
+    "token_type": "devanagari",
+    "ipa": "laːiː"
+  },
+  {
+    "token": "हुए",
+    "token_type": "devanagari",
+    "ipa": "ɦʊeː"
+  },
+  {
+    "token": "तो",
+    "token_type": "devanagari",
+    "ipa": "t̪oː"
+  },
+  {
+    "token": "मुझे",
+    "token_type": "devanagari",
+    "ipa": "mʊdʒʱeː"
+  },
+  {
+    "token": "कोई",
+    "token_type": "devanagari",
+    "ipa": "koːiː"
+  },
+  {
+    "token": "आकर",
+    "token_type": "devanagari",
+    "ipa": "aːkr"
+  },
+  {
+    "token": "के",
+    "token_type": "devanagari",
+    "ipa": "keː"
+  },
+  {
+    "token": "ब्रीप",
+    "token_type": "devanagari",
+    "ipa": "b्riːp"
+  },
+  {
+    "token": "करें",
+    "token_type": "devanagari",
+    "ipa": "kreːŋ"
+  },
+  {
+    "token": "प्रश्न",
+    "token_type": "devanagari",
+    "ipa": "p्rʃ्n"
+  },
+  {
+    "token": "नहीं",
+    "token_type": "devanagari",
+    "ipa": "nɦiːŋ"
+  },
+  {
+    "token": "होते",
+    "token_type": "devanagari",
+    "ipa": "ɦoːt̪eː"
+  },
+  {
+    "token": "हैं",
+    "token_type": "devanagari",
+    "ipa": "ɦɛːŋ"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "मेरे",
+    "token_type": "devanagari",
+    "ipa": "meːreː"
+  },
+  {
+    "token": "पास",
+    "token_type": "devanagari",
+    "ipa": "paːs"
+  },
+  {
+    "token": "एक",
+    "token_type": "devanagari",
+    "ipa": "eːk"
+  },
+  {
+    "token": "दूसरे",
+    "token_type": "devanagari",
+    "ipa": "d̪uːsreː"
+  },
+  {
+    "token": "फिर",
+    "token_type": "devanagari",
+    "ipa": "pʰɪr"
+  },
+  {
+    "token": "क्या",
+    "token_type": "devanagari",
+    "ipa": "k्jaː"
+  },
+  {
+    "token": "है",
+    "token_type": "devanagari",
+    "ipa": "ɦɛː"
+  },
+  {
+    "token": "है",
+    "token_type": "devanagari",
+    "ipa": "ɦɛː"
+  },
+  {
+    "token": "तो",
+    "token_type": "devanagari",
+    "ipa": "t̪oː"
+  },
+  {
+    "token": "मैं",
+    "token_type": "devanagari",
+    "ipa": "mɛːŋ"
+  },
+  {
+    "token": "डेविल",
+    "token_type": "devanagari",
+    "ipa": "ɖeːʋɪl"
+  },
+  {
+    "token": "एरगोर्केट",
+    "token_type": "devanagari",
+    "ipa": "eːrgoːr्keːʈ"
+  },
+  {
+    "token": "बंद",
+    "token_type": "devanagari",
+    "ipa": "bŋd̪"
+  },
+  {
+    "token": "करके",
+    "token_type": "devanagari",
+    "ipa": "krkeː"
+  },
+  {
+    "token": "उल्टे",
+    "token_type": "devanagari",
+    "ipa": "ʊl्ʈeː"
+  },
+  {
+    "token": "प्रश्न",
+    "token_type": "devanagari",
+    "ipa": "p्rʃ्n"
+  },
+  {
+    "token": "पूछता",
+    "token_type": "devanagari",
+    "ipa": "puːtʃʰt̪aː"
+  },
+  {
+    "token": "हूं",
+    "token_type": "devanagari",
+    "ipa": "ɦuːŋ"
+  },
+  {
+    "token": "उसको",
+    "token_type": "devanagari",
+    "ipa": "ʊskoː"
+  },
+  {
+    "token": "बहुत",
+    "token_type": "devanagari",
+    "ipa": "bɦʊt̪"
+  },
+  {
+    "token": "बारी",
+    "token_type": "devanagari",
+    "ipa": "baːriː"
+  },
+  {
+    "token": "किसे",
+    "token_type": "devanagari",
+    "ipa": "kɪseː"
+  },
+  {
+    "token": "एलेक",
+    "token_type": "devanagari",
+    "ipa": "eːleːk"
+  },
+  {
+    "token": "प्रकरते",
+    "token_type": "devanagari",
+    "ipa": "p्rkrt̪eː"
+  },
+  {
+    "token": "मन्थन",
+    "token_type": "devanagari",
+    "ipa": "mn्t̪ʰn"
+  },
+  {
+    "token": "करना",
+    "token_type": "devanagari",
+    "ipa": "krnaː"
+  },
+  {
+    "token": "पड़ता",
+    "token_type": "devanagari",
+    "ipa": "pɖ़t̪aː"
+  },
+  {
+    "token": "है",
+    "token_type": "devanagari",
+    "ipa": "ɦɛː"
+  },
+  {
+    "token": "तो",
+    "token_type": "devanagari",
+    "ipa": "t̪oː"
+  },
+  {
+    "token": "ऐसा",
+    "token_type": "devanagari",
+    "ipa": "ɛːsaː"
+  },
+  {
+    "token": "कर",
+    "token_type": "devanagari",
+    "ipa": "kr"
+  },
+  {
+    "token": "ने",
+    "token_type": "devanagari",
+    "ipa": "neː"
+  },
+  {
+    "token": "से",
+    "token_type": "devanagari",
+    "ipa": "seː"
+  },
+  {
+    "token": "अमृत",
+    "token_type": "devanagari",
+    "ipa": "əmृt̪"
+  },
+  {
+    "token": "निकले",
+    "token_type": "devanagari",
+    "ipa": "nɪkleː"
+  },
+  {
+    "token": "हैं",
+    "token_type": "devanagari",
+    "ipa": "ɦɛːŋ"
+  },
+  {
+    "token": "इस",
+    "token_type": "devanagari",
+    "ipa": "ɪs"
+  },
+  {
+    "token": "पर",
+    "token_type": "devanagari",
+    "ipa": "pr"
+  },
+  {
+    "token": "कहा",
+    "token_type": "devanagari",
+    "ipa": "kɦaː"
+  },
+  {
+    "token": "कि",
+    "token_type": "devanagari",
+    "ipa": "kɪ"
+  },
+  {
+    "token": "मेरे",
+    "token_type": "devanagari",
+    "ipa": "meːreː"
+  },
+  {
+    "token": "कोशिश",
+    "token_type": "devanagari",
+    "ipa": "koːʃɪʃ"
+  },
+  {
+    "token": "हैती",
+    "token_type": "devanagari",
+    "ipa": "ɦɛːt̪iː"
+  },
+  {
+    "token": "है",
+    "token_type": "devanagari",
+    "ipa": "ɦɛː"
+  },
+  {
+    "token": "दूसरा",
+    "token_type": "devanagari",
+    "ipa": "d̪uːsraː"
+  },
+  {
+    "token": "मैं",
+    "token_type": "devanagari",
+    "ipa": "mɛːŋ"
+  },
+  {
+    "token": "जब",
+    "token_type": "devanagari",
+    "ipa": "dʒb"
+  },
+  {
+    "token": "निर्णाई",
+    "token_type": "devanagari",
+    "ipa": "nɪr्ɳaːiː"
+  },
+  {
+    "token": "लेता",
+    "token_type": "devanagari",
+    "ipa": "leːt̪aː"
+  },
+  {
+    "token": "हूँ",
+    "token_type": "devanagari",
+    "ipa": "ɦuː̃"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "मुझे",
+    "token_type": "devanagari",
+    "ipa": "mʊdʒʱeː"
+  },
+  {
+    "token": "लगता",
+    "token_type": "devanagari",
+    "ipa": "lgt̪aː"
+  },
+  {
+    "token": "एक",
+    "token_type": "devanagari",
+    "ipa": "eːk"
+  },
+  {
+    "token": "हाँ",
+    "token_type": "devanagari",
+    "ipa": "ɦaː̃"
+  },
+  {
+    "token": "ये",
+    "token_type": "devanagari",
+    "ipa": "jeː"
+  },
+  {
+    "token": "करने",
+    "token_type": "devanagari",
+    "ipa": "krneː"
+  },
+  {
+    "token": "जाता",
+    "token_type": "devanagari",
+    "ipa": "dʒaːt̪aː"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "तो",
+    "token_type": "devanagari",
+    "ipa": "t̪oː"
+  },
+  {
+    "token": "फिर",
+    "token_type": "devanagari",
+    "ipa": "pʰɪr"
+  },
+  {
+    "token": "में",
+    "token_type": "devanagari",
+    "ipa": "meːŋ"
+  },
+  {
+    "token": "सहमना",
+    "token_type": "devanagari",
+    "ipa": "sɦmnaː"
+  },
+  {
+    "token": "जो",
+    "token_type": "devanagari",
+    "ipa": "dʒoː"
+  },
+  {
+    "token": "लोग",
+    "token_type": "devanagari",
+    "ipa": "loːg"
+  },
+  {
+    "token": "हैं",
+    "token_type": "devanagari",
+    "ipa": "ɦɛːŋ"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "मेरे",
+    "token_type": "devanagari",
+    "ipa": "meːreː"
+  },
+  {
+    "token": "विचारों",
+    "token_type": "devanagari",
+    "ipa": "ʋɪtʃaːroːŋ"
+  },
+  {
+    "token": "को",
+    "token_type": "devanagari",
+    "ipa": "koː"
+  },
+  {
+    "token": "उनको",
+    "token_type": "devanagari",
+    "ipa": "ʊnkoː"
+  },
+  {
+    "token": "शेर",
+    "token_type": "devanagari",
+    "ipa": "ʃeːr"
+  },
+  {
+    "token": "करके",
+    "token_type": "devanagari",
+    "ipa": "krkeː"
+  },
+  {
+    "token": "हलके",
+    "token_type": "devanagari",
+    "ipa": "ɦlkeː"
+  },
+  {
+    "token": "फ",
+    "token_type": "devanagari",
+    "ipa": "pʰ"
+  },
+  {
+    "token": "उनके",
+    "token_type": "devanagari",
+    "ipa": "ʊnkeː"
+  },
+  {
+    "token": "भी",
+    "token_type": "devanagari",
+    "ipa": "bʱiː"
+  },
+  {
+    "token": "रियक्शन",
+    "token_type": "devanagari",
+    "ipa": "rɪjk्ʃn"
+  },
+  {
+    "token": "देखता",
+    "token_type": "devanagari",
+    "ipa": "d̪eːkʰt̪aː"
+  },
+  {
+    "token": "हूँ",
+    "token_type": "devanagari",
+    "ipa": "ɦuː̃"
+  },
+  {
+    "token": "कि",
+    "token_type": "devanagari",
+    "ipa": "kɪ"
+  },
+  {
+    "token": "ये",
+    "token_type": "devanagari",
+    "ipa": "jeː"
+  },
+  {
+    "token": "निर्णा",
+    "token_type": "devanagari",
+    "ipa": "nɪr्ɳaː"
+  },
+  {
+    "token": "का",
+    "token_type": "devanagari",
+    "ipa": "kaː"
+  },
+  {
+    "token": "क्या",
+    "token_type": "devanagari",
+    "ipa": "k्jaː"
+  },
+  {
+    "token": "होगा",
+    "token_type": "devanagari",
+    "ipa": "ɦoːgaː"
+  },
+  {
+    "token": "और",
+    "token_type": "devanagari",
+    "ipa": "ɔːr"
+  },
+  {
+    "token": "मुझे",
+    "token_type": "devanagari",
+    "ipa": "mʊdʒʱeː"
+  },
+  {
+    "token": "फिर",
+    "token_type": "devanagari",
+    "ipa": "pʰɪr"
+  },
+  {
+    "token": "जब",
+    "token_type": "devanagari",
+    "ipa": "dʒb"
+  },
+  {
+    "token": "conviction",
+    "token_type": "english",
+    "ipa": "kɑnvɪkʃən"
+  },
+  {
+    "token": "बन",
+    "token_type": "devanagari",
+    "ipa": "bn"
+  },
+  {
+    "token": "जाए",
+    "token_type": "devanagari",
+    "ipa": "dʒaːeː"
+  },
+  {
+    "token": "process",
+    "token_type": "english",
+    "ipa": "prɑkɛss"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "it",
+    "token_type": "english",
+    "ipa": "ɪt"
+  },
+  {
+    "token": "doesn't",
+    "token_type": "english",
+    "ipa": "dɑɛsn't"
+  },
+  {
+    "token": "take",
+    "token_type": "english",
+    "ipa": "tækɛ"
+  },
+  {
+    "token": "that",
+    "token_type": "english",
+    "ipa": "ðæt"
+  },
+  {
+    "token": "much",
+    "token_type": "english",
+    "ipa": "mʌtʃ"
+  },
+  {
+    "token": "time",
+    "token_type": "english",
+    "ipa": "tɪmɛ"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "My",
+    "token_type": "english",
+    "ipa": "maɪ"
+  },
+  {
+    "token": "speed",
+    "token_type": "english",
+    "ipa": "spɛɛd"
+  },
+  {
+    "token": "is",
+    "token_type": "english",
+    "ipa": "ɪz"
+  },
+  {
+    "token": "मैं",
+    "token_type": "devanagari",
+    "ipa": "mɛːŋ"
+  },
+  {
+    "token": "कैसे",
+    "token_type": "devanagari",
+    "ipa": "kɛːseː"
+  },
+  {
+    "token": "निर्णा",
+    "token_type": "devanagari",
+    "ipa": "nɪr्ɳaː"
+  },
+  {
+    "token": "लिये",
+    "token_type": "devanagari",
+    "ipa": "lɪjeː"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "अब",
+    "token_type": "devanagari",
+    "ipa": "əb"
+  },
+  {
+    "token": "मुझे",
+    "token_type": "devanagari",
+    "ipa": "mʊdʒʱeː"
+  },
+  {
+    "token": "ये",
+    "token_type": "devanagari",
+    "ipa": "jeː"
+  },
+  {
+    "token": "Nobel",
+    "token_type": "english",
+    "ipa": "nɑbɛl"
+  },
+  {
+    "token": "Prize",
+    "token_type": "english",
+    "ipa": "prɪzɛ"
+  },
+  {
+    "token": "विनर",
+    "token_type": "devanagari",
+    "ipa": "ʋɪnr"
+  },
+  {
+    "token": "मिलते",
+    "token_type": "devanagari",
+    "ipa": "mɪlt̪eː"
+  },
+  {
+    "token": "हैं",
+    "token_type": "devanagari",
+    "ipa": "ɦɛːŋ"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "में",
+    "token_type": "devanagari",
+    "ipa": "meːŋ"
+  },
+  {
+    "token": "भागबाद",
+    "token_type": "devanagari",
+    "ipa": "bʱaːgbaːd̪"
+  },
+  {
+    "token": "के",
+    "token_type": "devanagari",
+    "ipa": "keː"
+  },
+  {
+    "token": "मुझे",
+    "token_type": "devanagari",
+    "ipa": "mʊdʒʱeː"
+  },
+  {
+    "token": "उदान",
+    "token_type": "devanagari",
+    "ipa": "ʊd̪aːn"
+  },
+  {
+    "token": "देते",
+    "token_type": "devanagari",
+    "ipa": "d̪eːt̪eː"
+  },
+  {
+    "token": "थे",
+    "token_type": "devanagari",
+    "ipa": "t̪ʰeː"
+  },
+  {
+    "token": "कल",
+    "token_type": "devanagari",
+    "ipa": "kl"
+  },
+  {
+    "token": "पार्टिया",
+    "token_type": "devanagari",
+    "ipa": "paːr्ʈɪjaː"
+  },
+  {
+    "token": "मुझे",
+    "token_type": "devanagari",
+    "ipa": "mʊdʒʱeː"
+  },
+  {
+    "token": "प्रिशर",
+    "token_type": "devanagari",
+    "ipa": "p्rɪʃr"
+  },
+  {
+    "token": "करती",
+    "token_type": "devanagari",
+    "ipa": "krt̪iː"
+  },
+  {
+    "token": "थी",
+    "token_type": "devanagari",
+    "ipa": "t̪ʰiː"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "इतना",
+    "token_type": "devanagari",
+    "ipa": "ɪt̪naː"
+  },
+  {
+    "token": "पैसा",
+    "token_type": "devanagari",
+    "ipa": "pɛːsaː"
+  },
+  {
+    "token": "दे",
+    "token_type": "devanagari",
+    "ipa": "d̪eː"
+  },
+  {
+    "token": "दो",
+    "token_type": "devanagari",
+    "ipa": "d̪oː"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "मैं",
+    "token_type": "devanagari",
+    "ipa": "mɛːŋ"
+  },
+  {
+    "token": "कुछ",
+    "token_type": "devanagari",
+    "ipa": "kʊtʃʰ"
+  },
+  {
+    "token": "करता",
+    "token_type": "devanagari",
+    "ipa": "krt̪aː"
+  },
+  {
+    "token": "नहीं",
+    "token_type": "devanagari",
+    "ipa": "nɦiːŋ"
+  },
+  {
+    "token": "था",
+    "token_type": "devanagari",
+    "ipa": "t̪ʰaː"
+  },
+  {
+    "token": "और",
+    "token_type": "devanagari",
+    "ipa": "ɔːr"
+  },
+  {
+    "token": "फिर",
+    "token_type": "devanagari",
+    "ipa": "pʰɪr"
+  },
+  {
+    "token": "मेरी",
+    "token_type": "devanagari",
+    "ipa": "meːriː"
+  },
+  {
+    "token": "अपनी",
+    "token_type": "devanagari",
+    "ipa": "əpniː"
+  },
+  {
+    "token": "देश",
+    "token_type": "devanagari",
+    "ipa": "d̪eːʃ"
+  },
+  {
+    "token": "की",
+    "token_type": "devanagari",
+    "ipa": "kiː"
+  },
+  {
+    "token": "परिस्थिति",
+    "token_type": "devanagari",
+    "ipa": "prɪs्t̪ʰɪt̪ɪ"
+  },
+  {
+    "token": "के",
+    "token_type": "devanagari",
+    "ipa": "keː"
+  },
+  {
+    "token": "अनुसार",
+    "token_type": "devanagari",
+    "ipa": "ənʊsaːr"
+  },
+  {
+    "token": "को",
+    "token_type": "devanagari",
+    "ipa": "koː"
+  },
+  {
+    "token": "निलने",
+    "token_type": "devanagari",
+    "ipa": "nɪlneː"
+  },
+  {
+    "token": "की",
+    "token_type": "devanagari",
+    "ipa": "kiː"
+  },
+  {
+    "token": "है।",
+    "token_type": "devanagari",
+    "ipa": "ɦɛː।"
+  },
+  {
+    "token": "के",
+    "token_type": "devanagari",
+    "ipa": "keː"
+  },
+  {
+    "token": "लिए",
+    "token_type": "devanagari",
+    "ipa": "lɪeː"
+  },
+  {
+    "token": "समाजिक",
+    "token_type": "devanagari",
+    "ipa": "smaːdʒɪk"
+  },
+  {
+    "token": "तनाव",
+    "token_type": "devanagari",
+    "ipa": "t̪naːʋ"
+  },
+  {
+    "token": "पैदा",
+    "token_type": "devanagari",
+    "ipa": "pɛːd̪aː"
+  },
+  {
+    "token": "नहीं",
+    "token_type": "devanagari",
+    "ipa": "nɦiːŋ"
+  },
+  {
+    "token": "होने",
+    "token_type": "devanagari",
+    "ipa": "ɦoːneː"
+  },
+  {
+    "token": "दूँगा।",
+    "token_type": "devanagari",
+    "ipa": "d̪uː̃gaː।"
+  },
+  {
+    "token": "ऐसे",
+    "token_type": "devanagari",
+    "ipa": "ɛːseː"
+  },
+  {
+    "token": "कुछ",
+    "token_type": "devanagari",
+    "ipa": "kʊtʃʰ"
+  },
+  {
+    "token": "मेरे",
+    "token_type": "devanagari",
+    "ipa": "meːreː"
+  },
+  {
+    "token": "मन",
+    "token_type": "devanagari",
+    "ipa": "mn"
+  },
+  {
+    "token": "में",
+    "token_type": "devanagari",
+    "ipa": "meːŋ"
+  },
+  {
+    "token": "भावकताए",
+    "token_type": "devanagari",
+    "ipa": "bʱaːʋkt̪aːeː"
+  },
+  {
+    "token": "हुये",
+    "token_type": "devanagari",
+    "ipa": "ɦʊjeː"
+  },
+  {
+    "token": "लोग",
+    "token_type": "devanagari",
+    "ipa": "loːg"
+  },
+  {
+    "token": "डाउन",
+    "token_type": "devanagari",
+    "ipa": "ɖaːʊn"
+  },
+  {
+    "token": "में",
+    "token_type": "devanagari",
+    "ipa": "meːŋ"
+  },
+  {
+    "token": "पड़ी",
+    "token_type": "devanagari",
+    "ipa": "pɖ़iː"
+  },
+  {
+    "token": "थी",
+    "token_type": "devanagari",
+    "ipa": "t̪ʰiː"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "इकणां",
+    "token_type": "devanagari",
+    "ipa": "ɪkɳaːŋ"
+  },
+  {
+    "token": "भी",
+    "token_type": "devanagari",
+    "ipa": "bʱiː"
+  },
+  {
+    "token": "पूरी",
+    "token_type": "devanagari",
+    "ipa": "puːriː"
+  },
+  {
+    "token": "तरह",
+    "token_type": "devanagari",
+    "ipa": "t̪rɦ"
+  },
+  {
+    "token": "दुनिया",
+    "token_type": "devanagari",
+    "ipa": "d̪ʊnɪjaː"
+  },
+  {
+    "token": "की",
+    "token_type": "devanagari",
+    "ipa": "kiː"
+  },
+  {
+    "token": "बैट",
+    "token_type": "devanagari",
+    "ipa": "bɛːʈ"
+  },
+  {
+    "token": "चुकी",
+    "token_type": "devanagari",
+    "ipa": "tʃʊkiː"
+  },
+  {
+    "token": "ठी",
+    "token_type": "devanagari",
+    "ipa": "ʈʰiː"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "I",
+    "token_type": "english",
+    "ipa": "aɪ"
+  },
+  {
+    "token": "had",
+    "token_type": "english",
+    "ipa": "hæd"
+  },
+  {
+    "token": "heard",
+    "token_type": "english",
+    "ipa": "hɛærd"
+  },
+  {
+    "token": "the",
+    "token_type": "english",
+    "ipa": "ðə"
+  },
+  {
+    "token": "opinions",
+    "token_type": "english",
+    "ipa": "ɑpɪnɪɑns"
+  },
+  {
+    "token": "of",
+    "token_type": "english",
+    "ipa": "əv"
+  },
+  {
+    "token": "experts",
+    "token_type": "english",
+    "ipa": "ɛkspɛrts"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "I",
+    "token_type": "english",
+    "ipa": "aɪ"
+  },
+  {
+    "token": "tried",
+    "token_type": "english",
+    "ipa": "trɪɛd"
+  },
+  {
+    "token": "to",
+    "token_type": "english",
+    "ipa": "tuː"
+  },
+  {
+    "token": "understand",
+    "token_type": "english",
+    "ipa": "ʌndɛrstænd"
+  },
+  {
+    "token": "them",
+    "token_type": "english",
+    "ipa": "θɛm"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "I",
+    "token_type": "english",
+    "ipa": "aɪ"
+  },
+  {
+    "token": "did",
+    "token_type": "english",
+    "ipa": "dɪd"
+  },
+  {
+    "token": "not",
+    "token_type": "english",
+    "ipa": "nɒt"
+  },
+  {
+    "token": "oppose",
+    "token_type": "english",
+    "ipa": "ɑppɑsɛ"
+  },
+  {
+    "token": "them",
+    "token_type": "english",
+    "ipa": "θɛm"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "But",
+    "token_type": "english",
+    "ipa": "bʌt"
+  },
+  {
+    "token": "I",
+    "token_type": "english",
+    "ipa": "aɪ"
+  },
+  {
+    "token": "have",
+    "token_type": "english",
+    "ipa": "hævɛ"
+  },
+  {
+    "token": "combined",
+    "token_type": "english",
+    "ipa": "kɑmbɪnɛd"
+  },
+  {
+    "token": "my",
+    "token_type": "english",
+    "ipa": "maɪ"
+  },
+  {
+    "token": "country's",
+    "token_type": "english",
+    "ipa": "kɑʌntrj's"
+  },
+  {
+    "token": "situation",
+    "token_type": "english",
+    "ipa": "sɪtʌæʃən"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "my",
+    "token_type": "english",
+    "ipa": "maɪ"
+  },
+  {
+    "token": "own",
+    "token_type": "english",
+    "ipa": "ɑwn"
+  },
+  {
+    "token": "experience",
+    "token_type": "english",
+    "ipa": "ɛkspɛrɪɛnkɛ"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "all",
+    "token_type": "english",
+    "ipa": "ɔːl"
+  },
+  {
+    "token": "of",
+    "token_type": "english",
+    "ipa": "əv"
+  },
+  {
+    "token": "them",
+    "token_type": "english",
+    "ipa": "θɛm"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "mixed",
+    "token_type": "english",
+    "ipa": "mɪksɛd"
+  },
+  {
+    "token": "them",
+    "token_type": "english",
+    "ipa": "θɛm"
+  },
+  {
+    "token": "up",
+    "token_type": "english",
+    "ipa": "ʌp"
+  },
+  {
+    "token": "and",
+    "token_type": "english",
+    "ipa": "ænd"
+  },
+  {
+    "token": "developed",
+    "token_type": "english",
+    "ipa": "dɛvɛlɑpɛd"
+  },
+  {
+    "token": "the",
+    "token_type": "english",
+    "ipa": "ðə"
+  },
+  {
+    "token": "things",
+    "token_type": "english",
+    "ipa": "θɪŋs"
+  },
+  {
+    "token": "and",
+    "token_type": "english",
+    "ipa": "ænd"
+  },
+  {
+    "token": "the",
+    "token_type": "english",
+    "ipa": "ðə"
+  },
+  {
+    "token": "system",
+    "token_type": "english",
+    "ipa": "sjstɛm"
+  },
+  {
+    "token": "that",
+    "token_type": "english",
+    "ipa": "ðæt"
+  },
+  {
+    "token": "is",
+    "token_type": "english",
+    "ipa": "ɪz"
+  },
+  {
+    "token": "there",
+    "token_type": "english",
+    "ipa": "ðɛəɹ"
+  },
+  {
+    "token": ".",
+    "token_type": "punct",
+    "ipa": "."
+  },
+  {
+    "token": "Because",
+    "token_type": "english",
+    "ipa": "bɛkæʌsɛ"
+  },
+  {
+    "token": "of",
+    "token_type": "english",
+    "ipa": "əv"
+  },
+  {
+    "token": "this",
+    "token_type": "english",
+    "ipa": "ðɪs"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "the",
+    "token_type": "english",
+    "ipa": "ðə"
+  },
+  {
+    "token": "inflation",
+    "token_type": "english",
+    "ipa": "ɪnflæʃən"
+  },
+  {
+    "token": "that",
+    "token_type": "english",
+    "ipa": "ðæt"
+  },
+  {
+    "token": "the",
+    "token_type": "english",
+    "ipa": "ðə"
+  },
+  {
+    "token": "world",
+    "token_type": "english",
+    "ipa": "wɑrld"
+  },
+  {
+    "token": "immediately",
+    "token_type": "english",
+    "ipa": "ɪmmɛdɪætɛlj"
+  },
+  {
+    "token": "after",
+    "token_type": "english",
+    "ipa": "æftɛr"
+  },
+  {
+    "token": "COVID",
+    "token_type": "acronym",
+    "ipa": "siː oʊ viː aɪ diː"
+  },
+  {
+    "token": ",",
+    "token_type": "punct",
+    "ipa": ","
+  },
+  {
+    "token": "में",
+    "token_type": "devanagari",
+    "ipa": "meːŋ"
+  },
+  {
+    "token": "तेज",
+    "token_type": "devanagari",
+    "ipa": "t̪eːdʒ"
+  },
+  {
+    "token": "गती",
+    "token_type": "devanagari",
+    "ipa": "gt̪iː"
+  },
+  {
+    "token": "से",
+    "token_type": "devanagari",
+    "ipa": "seː"
+  },
+  {
+    "token": "प्रगधी",
+    "token_type": "devanagari",
+    "ipa": "p्rgd̪ʱiː"
+  },
+  {
+    "token": "करने",
+    "token_type": "devanagari",
+    "ipa": "krneː"
+  },
+  {
+    "token": "वाला",
+    "token_type": "devanagari",
+    "ipa": "ʋaːlaː"
+  },
+  {
+    "token": "है",
+    "token_type": "devanagari",
+    "ipa": "ɦɛː"
+  },
+  {
+    "token": "उसका",
+    "token_type": "devanagari",
+    "ipa": "ʊskaː"
+  },
+  {
+    "token": "मूल",
+    "token_type": "devanagari",
+    "ipa": "muːl"
+  },
+  {
+    "token": "कारण",
+    "token_type": "devanagari",
+    "ipa": "kaːrɳ"
+  }
+]

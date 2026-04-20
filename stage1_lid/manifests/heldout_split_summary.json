@@ -1,0 +1,18 @@
+{
+  "utterances_total": 43,
+  "heldout_start_idx": 30,
+  "heldout_end_idx_exclusive": 38,
+  "heldout_count": 8,
+  "valid_count": 5,
+  "train_count": 30,
+  "heldout_utterance_ids": [
+    "lexmodi_original_2h20m_10m__chunk_0007",
+    "lexmodi_original_2h20m_10m__chunk_0008",
+    "lexmodi_original_2h20m_10m__chunk_0010",
+    "lexmodi_original_2h20m_10m__chunk_0015",
+    "lexmodi_original_2h20m_10m__chunk_0016",
+    "lexmodi_original_2h20m_10m__chunk_0017",
+    "lexmodi_original_2h20m_10m__chunk_0020",
+    "lexmodi_original_2h20m_10m__chunk_0035"
+  ]
+}

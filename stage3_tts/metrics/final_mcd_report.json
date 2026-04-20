@@ -1,0 +1,26 @@
+{
+  "matched_clone_speecht5": {
+    "mcd_proxy": 4.4926382303,
+    "aligned_frames": 4052,
+    "sr": 16000,
+    "hop_length": 256,
+    "mcep_order": 24,
+    "alpha": 0.42
+  },
+  "lecture_clone_speecht5": {
+    "mcd_proxy": 5.1048731657,
+    "aligned_frames": 4277,
+    "sr": 16000,
+    "hop_length": 256,
+    "mcep_order": 24,
+    "alpha": 0.42
+  },
+  "lecture_mms": {
+    "mcd_proxy": 5.5184866935,
+    "aligned_frames": 4303,
+    "sr": 16000,
+    "hop_length": 256,
+    "mcep_order": 24,
+    "alpha": 0.42
+  }
+}

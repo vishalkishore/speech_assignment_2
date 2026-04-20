@@ -1,0 +1,72 @@
+{
+  "checkpoint": "/home/vishal/assignment2-final/stage1_lid/checkpoints/lid_clip_adapt_clean_v2_best_clip.pt",
+  "target_lang": "english",
+  "snr_min_db": 40.0,
+  "attack_steps": 12,
+  "selection": {
+    "selection_mode": "auto_from_clean_hindi_spans",
+    "utterance_id": "lexmodi_original_2h20m_10m__chunk_0024",
+    "audio_path": "/home/vishal/assignment2-final/stage1_lid/audio/chunks/lexmodi_original_2h20m_10m__chunk_0024.wav",
+    "reference_span_start_sec": 0.0,
+    "reference_span_end_sec": 14.3,
+    "attack_segment_start_sec": 4.65,
+    "attack_segment_end_sec": 9.65,
+    "reference_text": "कि भई तुम्हें कोई निर्णय करते समय कोई उलझन हो तो तुम किसी गरीब का चेहरा देख लो उनको याद करो और सोचो यह उसके काम आएगा क्या तो आपका निर्णय सही होगा मुझे वह मंत्र बहुत काम आता है कि भई आप"
+  },
+  "clean_prediction": {
+    "pred_id": 1,
+    "pred_lang": "hindi",
+    "english_ratio": 0.0,
+    "hindi_ratio": 1.0,
+    "num_frames": 498,
+    "mean_logits": [
+      -1.66091042,
+      2.1240503787994385
+    ],
+    "mean_probs": [
+      0.0399421434,
+      0.9600578566
+    ]
+  },
+  "clean_audio_path": "/home/vishal/assignment2-final/stage4_attack/audio/fgsm_clean_reference.wav",
+  "epsilon_grid": [
+    4.999999873689376e-05,
+    9.999999747378752e-05,
+    0.00014999999257270247,
+    0.00019999999494757503,
+    0.00024999998277053237,
+    0.00029999998514540493,
+    0.0003499999875202775,
+    0.00039999998989515007,
+    0.00044999999227002263,
+    0.0004999999655410647,
+    0.0005499999970197678,
+    0.0005999999702908099,
+    0.0006500000017695129,
+    0.000699999975040555,
+    0.000750000006519258,
+    0.0007999999797903001
+  ],
+  "success": true,
+  "best_attack": {
+    "epsilon": 0.00023218783453027937,
+    "snr_db": 59.753347,
+    "prediction": {
+      "pred_id": 0,
+      "pred_lang": "english",
+      "english_ratio": 0.6600705167,
+      "hindi_ratio": 0.3399294833,
+      "num_frames": 498,
+      "mean_logits": [
+        0.6264325380325317,
+        -0.5517494678497314
+      ],
+      "mean_probs": [
+        0.6511667966842651,
+        0.34883320331573486
+      ]
+    },
+    "flip_success": true
+  },
+  "adv_audio_path": "/home/vishal/assignment2-final/stage4_attack/audio/fgsm_adversarial.wav"
+}

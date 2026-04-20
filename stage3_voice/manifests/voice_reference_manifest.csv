@@ -1,0 +1,2 @@
+speaker_id,audio_path,embedding_path,meta_json,duration_sec,embedding_dim,backend
+student_voice_ref,/home/vishal/assignment2-final/stage3_voice/student_voice_ref_60s.wav,/home/vishal/assignment2-final/stage3_voice/embeddings/student_voice_ref_speech_embed.pt,/home/vishal/assignment2-final/stage3_voice/embeddings/student_voice_ref_speech_embed.json,60.00,192,speechbrain

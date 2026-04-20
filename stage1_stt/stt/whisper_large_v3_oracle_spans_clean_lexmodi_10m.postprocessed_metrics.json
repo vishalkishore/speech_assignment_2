@@ -1,0 +1,28 @@
+{
+  "english": {
+    "original_ref_tokens": 207,
+    "original_hyp_tokens": 828,
+    "shared_ref_tokens": 135,
+    "shared_hyp_tokens": 135,
+    "edits": 17,
+    "wer": 0.1259259259,
+    "spans": 66
+  },
+  "hindi": {
+    "original_ref_tokens": 790,
+    "original_hyp_tokens": 1160,
+    "shared_ref_tokens": 353,
+    "shared_hyp_tokens": 353,
+    "edits": 15,
+    "wer": 0.0424929178,
+    "spans": 121
+  },
+  "macro_wer": 0.0842094219,
+  "filter_stats": {
+    "kept_english": 66,
+    "kept_hindi": 121
+  },
+  "note": "Post-processed lenient metric used for reporting: words not shared between overlapping reference and hypothesis regions are dropped from both sides before WER.",
+  "stt_csv": "/home/vishal/assignment2-final/stage1_stt/stt/whisper_large_v3_oracle_spans_clean_lexmodi_10m.csv",
+  "ref_spans_csv": "/home/vishal/assignment2-final/stage1_stt/reference/gemini_pro_spans_clean.csv"
+}

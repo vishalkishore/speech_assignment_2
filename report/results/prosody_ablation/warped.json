@@ -1,0 +1,25 @@
+{
+  "reference_npz": "/home/vishal/.su/assignment2/report/results/prosody_ablation/reference.npz",
+  "query_npz": "/home/vishal/.su/assignment2/report/results/prosody_ablation/flat.npz",
+  "dtw_npz": "/home/vishal/.su/assignment2/report/results/prosody_ablation/dtw.npz",
+  "query_audio": "/home/vishal/.su/assignment2/part_3.3/final_audio/lexmodi_mms_fluent_22050.wav",
+  "out_audio": "/home/vishal/.su/assignment2/report/results/prosody_ablation/warped.wav",
+  "pitch_block_sec": 0.12,
+  "pitch_smooth_sec": 0.1,
+  "pitch_meta": {
+    "blocks": 4975,
+    "block_sec": 0.12,
+    "fade_sec": 0.02,
+    "median_semitone_shift": 1.3302416801452637,
+    "mean_abs_semitone_shift": 2.421020331655877
+  },
+  "energy_mix": 0.7,
+  "energy_smooth_sec": 0.1,
+  "time_warp_mix": 0.35,
+  "time_warp_meta": {
+    "enabled": true,
+    "mix": 0.35,
+    "query_duration_sec": 597.0,
+    "target_end_sec": 597.0
+  }
+}

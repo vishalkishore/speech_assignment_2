@@ -1,0 +1,13 @@
+{
+  "reference_npz": "/home/vishal/.su/assignment2/report/results/prosody_ablation/reference.npz",
+  "query_npz": "/home/vishal/.su/assignment2/report/results/prosody_ablation/flat.npz",
+  "path_length": 16183,
+  "final_cost": 15866.150753307249,
+  "reference_frames": 60001,
+  "query_frames": 59701,
+  "frame_step": 5,
+  "reference_frames_downsampled": 12001,
+  "query_frames_downsampled": 11941,
+  "band_ratio": 0.15,
+  "band_radius_frames": 1800
+}

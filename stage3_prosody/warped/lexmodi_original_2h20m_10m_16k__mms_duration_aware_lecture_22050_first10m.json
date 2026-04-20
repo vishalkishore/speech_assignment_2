@@ -1,0 +1,25 @@
+{
+  "reference_npz": "/home/vishal/assignment2-final/stage3_prosody/prosody/lexmodi_original_2h20m_10m_16k.npz",
+  "query_npz": "/home/vishal/assignment2-final/stage3_prosody/prosody/mms_duration_aware_lecture_22050_first10m.npz",
+  "dtw_npz": "/home/vishal/assignment2-final/stage3_prosody/dtw/lexmodi_original_2h20m_10m_16k__mms_duration_aware_lecture_22050_first10m.npz",
+  "query_audio": "/home/vishal/assignment2-final/stage3_prosody/warped/mms_duration_aware_lecture_22050_first10m.wav",
+  "out_audio": "/home/vishal/assignment2-final/stage3_prosody/warped/lexmodi_original_2h20m_10m_16k__mms_duration_aware_lecture_22050_first10m.wav",
+  "pitch_block_sec": 0.12,
+  "pitch_smooth_sec": 0.1,
+  "pitch_meta": {
+    "blocks": 4692,
+    "block_sec": 0.12,
+    "fade_sec": 0.02,
+    "median_semitone_shift": -2.57678148,
+    "mean_abs_semitone_shift": 2.85361213
+  },
+  "energy_mix": 0.7,
+  "energy_smooth_sec": 0.1,
+  "time_warp_mix": 0.35,
+  "time_warp_meta": {
+    "enabled": true,
+    "mix": 0.35,
+    "query_duration_sec": 600.0,
+    "target_end_sec": 600.0
+  }
+}

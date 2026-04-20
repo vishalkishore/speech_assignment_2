@@ -1,0 +1,501 @@
+source,source_type,target_maithili,target_script,notes
+मेरे,candidate,हमर,Devanagari,Possessive pronoun.
+मुझे,candidate,हमरा,Devanagari,Dative/accusative pronoun.
+कि,candidate,जे,Devanagari,Conjunction 'that'.
+वो,candidate,ओ,Devanagari,Distant demonstrative pronoun (he/she/it).
+जो,candidate,जे,Devanagari,Relative pronoun.
+करने,candidate,करबाक,Devanagari,Infinitive 'to do' (genitive form).
+हूँ,candidate,छी,Devanagari,1st person singular present verb 'am'.
+है।,candidate,अछि,Devanagari,3rd person singular present verb 'is'.
+मेरी,candidate,हमर,Devanagari,Possessive pronoun.
+दूसरा,candidate,दोसर,Devanagari,Adjective 'second/other'.
+हो,candidate,होइ,Devanagari,Verb root 'to be/happen'.
+कर,candidate,करि,Devanagari,Imperative 'do' or verb root.
+कुछ,candidate,किछु,Devanagari,Indefinite pronoun/adjective 'some/something'.
+एक,candidate,एक,Devanagari,Numeral 'one' or indefinite article 'a'.
+बहुत,candidate,बहुत,Devanagari,Adverb 'very' or adjective 'much'.
+फिर,candidate,फेर,Devanagari,Adverb 'then/again'.
+ही,candidate,एहो,Devanagari,Emphatic particle.
+करते,candidate,करैत,Devanagari,Imperfect participle 'doing'.
+लिए,candidate,लेल,Devanagari,Postposition 'for'.
+करूँगा,candidate,करब,Devanagari,1st person singular future verb 'I will do'.
+काम,candidate,काज,Devanagari,Noun 'work'.
+कोई,candidate,कोनो,Devanagari,Indefinite pronoun/adjective 'any/someone'.
+knowledge,candidate,ज्ञान,Devanagari,Academic borrowing for 'knowledge'.
+लोग,candidate,लोक,Devanagari,Noun 'people'.
+होती,candidate,होइत,Devanagari,Imperfect participle 'happening/being'.
+देश,candidate,देश,Devanagari,Direct equivalent for country
+जब,candidate,जखन,Devanagari,Maithili equivalent for 'when'
+क्या,candidate,कि,Devanagari,Maithili equivalent for 'what' or 'whether'
+ने,candidate,N/A,Devanagari,No direct single-word equivalent; Maithili uses different grammatical structures
+दो,candidate,दिय,Devanagari,Maithili imperative for 'give'
+मैंने,candidate,हम,Devanagari,Maithili 'I'; the 'ne' postposition is not directly translated
+करता,candidate,करैत,Devanagari,Maithili present participle for 'doing'
+कहता,candidate,कहैत,Devanagari,Maithili present participle for 'saying'
+आज,candidate,आइ,Devanagari,Maithili equivalent for 'today'
+उनके,candidate,हुनक,Devanagari,Maithili possessive 'his/her/their' (respectful/plural)
+all,candidate,सब,Devanagari,Common Maithili term for 'all'
+time,candidate,समय,Devanagari,Common Maithili term for 'time'
+about,candidate,बारेमे,Devanagari,Maithili equivalent for 'about' (concerning)
+advanced,candidate,उन्नत,Devanagari,Standard Maithili term for 'advanced'
+हुआ,candidate,भेल,Devanagari,Maithili past participle for 'happened/became'
+कहते,candidate,कहैत,Devanagari,Maithili present participle for 'saying'
+khud,candidate,स्वयं,Devanagari,Maithili equivalent for 'self'
+ko,candidate,केँ,Devanagari,Maithili dative postposition
+करें,candidate,करू,Devanagari,Maithili respectful imperative for 'do'
+information,candidate,जानकारी,Devanagari,Common Maithili term for 'information'
+उसको,candidate,ओकरा,Devanagari,Maithili equivalent for 'to him/her/it'
+how,candidate,कोना,Devanagari,Common Maithili term for 'how'
+make,candidate,बनाबय,Devanagari,Maithili verb 'to make/create'
+decisions,candidate,निर्णयसभ,Devanagari,Maithili plural for 'decisions'
+process,candidate,प्रक्रिया,Devanagari,Standard Maithili term for 'process'
+ऐसा,candidate,एहन,Devanagari,Meaning 'such' or 'like this'.
+पास,candidate,लग,Devanagari,Meaning 'near' or 'with'.
+दूसरे,candidate,दोसर,Devanagari,Meaning 'other' or 'another'.
+उनको,candidate,ओनका,Devanagari,Meaning 'to them/him/her' (polite plural/singular).
+प्रश्न,candidate,प्रश्न,Devanagari,Meaning 'question'.
+करके,candidate,कए,Devanagari,Meaning 'by doing' or 'having done'.
+निर्णा,candidate,निर्णय,Devanagari,Assumed typo for 'निर्णय' (decision).
+vishwan,candidate,विश्वान,Devanagari,Transliteration of a proper noun.
+miriam,candidate,मिरीअम,Devanagari,Transliteration of a proper noun.
+आँख,candidate,आँखि,Devanagari,Meaning 'eye'.
+सामने,candidate,सोझाँ,Devanagari,Meaning 'in front of'.
+चीज़े,candidate,चीजसभ,Devanagari,Meaning 'things' (plural).
+मोटिवेट,candidate,मोटिवेट,Devanagari,Transliteration of English 'motivate'.
+रहती,candidate,रहैत,Devanagari,Meaning 'remain' or 'stay' (continuous participle).
+जिम्मेबारी,candidate,जिम्मेबारी,Devanagari,Meaning 'responsibility'.
+देशवास्वे,candidate,देशवासीसभ,Devanagari,"Assumed typo for 'देशवासियों' (countrymen, plural)."
+दी,candidate,देलक,Devanagari,Meaning 'gave' (simple past).
+पद,candidate,पद,Devanagari,Meaning 'post' or 'position'.
+मौज,candidate,मौज,Devanagari,Meaning 'fun' or 'pleasure'.
+मस्ती,candidate,मस्ती,Devanagari,Meaning 'revelry' or 'fun'.
+आया।,candidate,आएल,Devanagari,"Meaning 'came' (simple past, period ignored)."
+जरब,candidate,जरब,Devanagari,Direct transliteration due to ambiguity without context.
+पुरा,candidate,पूरा,Devanagari,Meaning 'complete' or 'entire'.
+प्रहास,candidate,परिहास,Devanagari,Meaning 'laughter' or 'jest'.
+सकता,candidate,सकैत,Devanagari,Meaning 'can' or 'is able to' (continuous participle).
+बग,candidate,दोष,Devanagari,Defect or error
+पाऊं,candidate,पामि,Devanagari,May get (1st person singular)
+लेकिन,candidate,मुदा,Devanagari,Conjunction 'but'
+प्रयास,candidate,प्रयास,Devanagari,"Effort, attempt"
+कमी,candidate,कमी,Devanagari,"Lack, deficiency"
+रहेगी,candidate,रहत,Devanagari,Will remain/be (general future)
+कह,candidate,कह,Devanagari,"Say, tell (verb root)"
+देशवासियों,candidate,देशवासीसभ,Devanagari,"Countrymen, fellow citizens (plural)"
+वादा,candidate,वादा,Devanagari,Promise
+मै,candidate,हम,Devanagari,"I (first person pronoun, assuming 'मैं')"
+कभी,candidate,कहियो,Devanagari,"Ever, never"
+बी,candidate,हू,Devanagari,"Also, even (assuming 'भी')"
+परिश्रम,candidate,परिश्रम,Devanagari,"Hard work, labor"
+पीछे,candidate,पाछू,Devanagari,"Behind, after"
+रहूंगा।,candidate,रहब,Devanagari,I will remain/be
+बद,candidate,खराब,Devanagari,"Bad, evil"
+इरादे,candidate,इरादासभ,Devanagari,Intentions (plural)
+तीसरा,candidate,तेसर,Devanagari,Third (ordinal number)
+साल,candidate,वर्ष,Devanagari,Year
+गए,candidate,गेल,Devanagari,"Went, gone (past tense)"
+इतने,candidate,एतेक,Devanagari,"So much, so many"
+लंबे,candidate,लाम्बा,Devanagari,Long (adjective)
+कालखन,candidate,कालखण्ड,Devanagari,"Period, time segment (assuming 'कालखंड')"
+head,candidate,प्रमुख,Devanagari,"Chief, leader (e.g., of government)"
+government,candidate,सरकार,Devanagari,Government
+given,candidate,देवाल,Devanagari,Past participle of 'to give'
+work,candidate,काज,Devanagari,Refers to 'work' as a noun
+weighed,candidate,तौलल गेल,Devanagari,Past participle 
+myself,candidate,हम स्वयं,Devanagari,Direct translation
+three,candidate,तीन,Devanagari,Common numeral
+pillars,candidate,स्तंभ,Devanagari,Formal term for pillar
+inspiration,candidate,प्रेरणा,Devanagari,Common term
+billion,candidate,अरब,Devanagari,Equivalent numeral
+people,candidate,लोक,Devanagari,Common term
+लोगों,candidate,लोक,Devanagari,Maithili equivalent of Hindi 'लोगों'
+सेवा,candidate,सेवा,Devanagari,"Same as Hindi, common term"
+एस्पिरेशन,candidate,आकांक्षा,Devanagari,Native equivalent for 'aspiration'
+उंकी,candidate,ओकर,Devanagari,Maithili equivalent for Hindi 'उनकी'
+आवशक्ता,candidate,आवश्यकता,Devanagari,Maithili equivalent for Hindi 'आवश्यकता'
+जितनी,candidate,जेतेक,Devanagari,Maithili equivalent for Hindi 'जितनी'
+मेहनत,candidate,मेहनत,Devanagari,"Same as Hindi, common term"
+सकूँ,candidate,सकियै,Devanagari,Maithili equivalent for Hindi 'सकूँ' (may I be able to)
+जीतना,candidate,जेतेक,Devanagari,Maithili equivalent for Hindi 'जीतना' (as much)
+करसको,candidate,कऽ सकय,Devanagari,Maithili equivalent for informal Hindi 'कर सको' (be able to do)
+मुड़,candidate,घुमब,Devanagari,Maithili infinitive for 'to turn'
+मैरी,candidate,हमर,Devanagari,Maithili equivalent for Hindi 'मेरी'
+उर्जा,candidate,ऊर्जा,Devanagari,Maithili equivalent for Hindi 'ऊर्जा'
+engineer,candidate,अभियंता,Devanagari,Formal Maithili term
+person,candidate,व्यक्ति,Devanagari,Common term
+loves,candidate,प्रेम करब,Devanagari,Maithili infinitive for 'to love'
+mathematics,candidate,गणित,Devanagari,Common term
+ask,candidate,पूछब,Devanagari,Maithili infinitive for 'to ask'
+srinivasa,candidate,श्रीनिवास,Devanagari,Transliteration of proper noun
+ramanujan,candidate,रामानुजन,Devanagari,Proper noun transliteration
+indian,candidate,भारतीय,Devanagari,Direct translation
+mathematician,candidate,गणितज्ञ,Devanagari,Direct translation
+century,candidate,शताब्दी,Devanagari,Direct translation
+ago,candidate,पहिने,Devanagari,Direct translation
+widely,candidate,व्यापक रूप सँ,Devanagari,Phrase meaning 'in a widespread manner'
+considered,candidate,मानल जाइत छथि,Devanagari,Translation for 'is considered' (respectful)
+one,candidate,एक,Devanagari,Direct translation (number)
+greatest,candidate,महानतम,Devanagari,Superlative form
+mathematicians,candidate,गणितज्ञ लोकनि,Devanagari,Plural form
+self-taught,candidate,स्वयं-शिक्षित,Devanagari,Direct translation
+grew,candidate,बढ़लाह,Devanagari,"Past tense of 'grow' (for a person, respectful)"
+poverty,candidate,गरीबी,Devanagari,Direct translation
+often,candidate,प्रायः,Devanagari,Direct translation
+spoken,candidate,कहल जाइत अछि,Devanagari,Translation for 'is spoken' (general)
+find,candidate,पाबैत छथि,Devanagari,Translation for 'they find' (respectful plural)
+inspiring,candidate,प्रेरणादायक,Devanagari,Direct translation
+science,candidate,विज्ञान,Devanagari,Direct translation
+spirituality,candidate,आध्यात्मिकता,Devanagari,Direct translation
+very,candidate,बहुत,Devanagari,Direct translation
+connected,candidate,जुड़ल,Devanagari,Direct translation
+says,candidate,कहैत छथि,Devanagari,Translation for 'says' (respectful)
+scientific,candidate,वैज्ञानिक,Devanagari,Direct translation
+minds,candidate,मन,Devanagari,Direct translation for 'mind' (can imply plural in context)
+spiritually,candidate,आध्यात्मिक रूप सँ,Devanagari,Phrase meaning 'in a spiritual way'
+got,candidate,भेटल,Devanagari,Maithili equivalent for 'received/obtained'
+knew,candidate,जनैत छल,Devanagari,Maithili equivalent for 'knew'
+स्री,candidate,श्री,Devanagari,Honorific 'Shri'
+निवास,candidate,निवास,Devanagari,Same in Maithili for 'residence'
+रमानुजम,candidate,रमानुजम,Devanagari,Proper noun
+उन्हें,candidate,हुनका,Devanagari,Maithili equivalent for honorific 'to him/her/them'
+उद्देवी,candidate,उद्देवी,Devanagari,Proper noun
+आते,candidate,अबैत,Devanagari,Maithili equivalent for 'coming/come habitually'
+जिसकी,candidate,जेकर,Devanagari,Maithili equivalent for 'whose/of which'
+पूजा,candidate,पूजा,Devanagari,Same in Maithili for 'worship'
+devote,candidate,समर्पित करब,Devanagari,To dedicate/devote
+kardena,candidate,कय देब,Devanagari,Maithili equivalent for 'to do completely'
+khapa,candidate,खपाबय,Devanagari,Maithili equivalent for 'to consume/utilize'
+dena,candidate,देब,Devanagari,Maithili equivalent for 'to give'
+svayam,candidate,स्वयं,Devanagari,Same in Maithili for 'self/oneself'
+hi,candidate,हे,Devanagari,Maithili emphatic particle
+jase,candidate,जेना,Devanagari,Maithili equivalent for 'like/as'
+wo,candidate,ओ,Devanagari,Maithili equivalent for 'he/she/it/they (distant)'
+karya,candidate,कार्य,Devanagari,Same in Maithili for 'work/task'
+ka,candidate,क,Devanagari,Maithili genitive particle 'of'
+roop,candidate,रूप,Devanagari,Same in Maithili for 'form/shape'
+banjaya,candidate,बनि जाएत,Devanagari,Maithili equivalent for 'will become'
+hai,candidate,अछि,Devanagari,Maithili equivalent for 'is'
+aur,candidate,आ,Devanagari,Maithili equivalent for 'and'
+hum,candidate,हम,Devanagari,Same in Maithili for 'we'
+ke,candidate,क,Devanagari,Hindi postposition equivalent.
+jitne,candidate,जेतेक,Devanagari,Hindi equivalent 'as much as'.
+jyada,candidate,बेसी,Devanagari,Hindi equivalent 'more'.
+thank,candidate,धन्यवाद,Devanagari,Common greeting.
+बीच,candidate,बीच,Devanagari,Common Maithili word 'between'.
+फर्क,candidate,फरक,Devanagari,Common Maithili word 'difference'.
+समझना,candidate,बुझब,Devanagari,Maithili verb equivalent 'to understand'.
+चाहिए,candidate,चाहि,Devanagari,Maithili auxiliary verb 'should'.
+मानते,candidate,मानब,Devanagari,Maithili verb equivalent 'to consider/believe'.
+सिंग्ग,candidate,सिंगल,Devanagari,Transliteration of 'single'.
+बाद,candidate,बाद,Devanagari,Common Maithili word 'after'.
+धिरे,candidate,धीरे,Devanagari,Maithili equivalent of 'slowly'.
+धीरे,candidate,धीरे,Devanagari,Common Maithili word 'slowly'.
+इवॉल्व,candidate,इवॉल्व,Devanagari,Academic transliteration of 'evolve'.
+हमने,candidate,हम,Devanagari,Maithili pronoun equivalent 'we/us'.
+reputation,candidate,प्रतिष्ठा,Devanagari,Maithili equivalent.
+decisive,candidate,निर्णायक,Devanagari,Maithili equivalent.
+leader,candidate,नेता,Devanagari,Common Maithili word.
+walk,candidate,चलब,Devanagari,Maithili verb equivalent 'to walk'.
+through,candidate,सँ होइत,Devanagari,Maithili prepositional phrase 'passing through'.
+topic,candidate,विषय,Devanagari,Common Maithili word.
+ideas,candidate,विचार,Devanagari,Common Maithili word (singular/plural).
+instance,candidate,उदाहरण,Devanagari,Maithili equivalent 'example'.
+facing,candidate,सामना करैत,Devanagari,Maithili present participle equivalent.
+high,candidate,ऊँच,Devanagari,Common Maithili word.
+stakes,candidate,दाँव,Devanagari,what is at risk or involved
+choice,candidate,विकल्प,Devanagari,"option, selection"
+clear,candidate,स्पष्ट,Devanagari,"evident, unambiguous"
+precedence,candidate,प्राथमिकता,Devanagari,"priority, prior importance"
+know,candidate,जानब,Devanagari,to know (verb)
+lot,candidate,बहुत,Devanagari,"much, many"
+uncertainty,candidate,अनिश्चितता,Devanagari,state of being uncertain
+balance,candidate,संतुलन,Devanagari,equilibrium (noun)
+input,candidate,आगत,Devanagari,"data, contribution (technical/general)"
+शायद,candidate,शायद,Devanagari,"perhaps, maybe (common in Maithili too)"
+हिंदुस्तान,candidate,भारत,Devanagari,India (formal Maithili name)
+पोलिटिशन,candidate,राजनेता,Devanagari,"statesman, politician (formal)"
+distance,candidate,दूरी,Devanagari,extent of space between two points
+उससे,candidate,ओहि सँ,Devanagari,from that/him/her
+पाया,candidate,पेलनि,Devanagari,found/received (past tense verb)
+सिखा,candidate,सिखलनि,Devanagari,learned (past tense verb)
+बड़ा,candidate,पैघ,Devanagari,"big, large"
+चीजों,candidate,चीजसभ,Devanagari,things (plural)
+ग्रास्रूट,candidate,जमीनी स्तर,Devanagari,grassroots (literal translation)
+लेवल,candidate,स्तर,Devanagari,level (noun)
+स्थितियों,candidate,स्थितिसभ,Devanagari,situations (plural)
+perspective,candidate,दृष्टिकोण,Devanagari,point of view
+governance,candidate,शासन,Devanagari,act of governing
+don,candidate,डॉन,Devanagari,"transliteration of English 'don' (e.g., as a title or name)"
+any,candidate,कोनो,Devanagari,"any, some"
+kind,candidate,प्रकार,Devanagari,"type, sort"
+baggage,candidate,सामान,Devanagari,"luggage, belongings"
+मेरा,candidate,मोर,Devanagari,"my, mine (masculine singular)"
+सबसे,candidate,सभसँ,Devanagari,"most, from all"
+पहले,candidate,पहिने,Devanagari,"first, before"
+रहा,candidate,रहल,Devanagari,"remained, stayed (past auxiliary)"
+वेरे,candidate,हमर,Devanagari,"my, mine (assuming 'मेरे')"
+दिश,candidate,दिस,Devanagari,"direction, side"
+नुक्षान,candidate,नुकसान,Devanagari,"loss, damage (from 'नुकसान')"
+रखा,candidate,राखल,Devanagari,"kept, placed"
+हमारी,candidate,हमर,Devanagari,"our, ours"
+महत्मा,candidate,महात्मा,Devanagari,great soul (from 'महात्मा')
+गांधी,candidate,गांधी,Devanagari,proper noun
+तुम्हें,candidate,तोरा,Devanagari,to you (informal)
+निर्णे,candidate,निर्णय,Devanagari,decision (from 'निर्णय')
+समय,candidate,समय,Devanagari,time
+उल्जन,candidate,उलझन,Devanagari,"confusion, entanglement (from 'उलझन')"
+किसी,candidate,कोनो,Devanagari,"any, someone"
+गरीपे,candidate,गरीब,Devanagari,poor (from 'गरीब')
+चेहरा,candidate,चेहरा,Devanagari,face
+देख,candidate,देख,Devanagari,"see, look (verb root)"
+लो,candidate,लिय,Devanagari,take (imperative)
+इनको,candidate,इन्हका,Devanagari,to them/these
+याद,candidate,याद,Devanagari,"memory, recollection"
+करो,candidate,करू,Devanagari,do (imperative)
+सोचो,candidate,सोचू,Devanagari,Maithili imperative for 'think'.
+उसके,candidate,ओकरा,Devanagari,Maithili for 'to him/her/it' or 'his/her/its'.
+आएगा,candidate,आओत,Devanagari,Maithili future tense for 'will come'.
+तब,candidate,तखन,Devanagari,Maithili equivalent for 'then'.
+नेड़े,candidate,निकट,Devanagari,Maithili for 'near'.
+प्रक्रियाजे,candidate,प्रक्रिया,Devanagari,Maithili for 'process'.
+सहातर,candidate,मदद,Devanagari,Maithili for 'help/support'.
+कहें,candidate,कहु,Devanagari,Maithili imperative for 'say/tell'.
+बैल,candidate,बैल,Devanagari,Maithili for 'ox/bull'.
+कनेक्टेड,candidate,कनेक्टेड,Devanagari,Transliteration of English 'connected'.
+सरकान,candidate,सरकार,Devanagari,Maithili for 'government'.
+अफसरों,candidate,अधिकारीसभ,Devanagari,Maithili plural for 'officers'.
+प्रते,candidate,प्रति,Devanagari,Maithili for 'towards/per'.
+इर्शा,candidate,ईर्ष्या,Devanagari,Maithili for 'jealousy'.
+ओगी।,candidate,होयत,Devanagari,Maithili for 'will be/happen'.
+तकलीब,candidate,कष्ट,Devanagari,Maithili for 'trouble/difficulty'.
+हुगी,candidate,होयत,Devanagari,Maithili for 'will be/happen'.
+औड़,candidate,आ,Devanagari,Maithili for 'and'.
+channel,candidate,चैनल,Devanagari,Transliteration of English 'channel'.
+लाई,candidate,आनल,Devanagari,Maithili for 'brought'.
+हुए,candidate,भए,Devanagari,Maithili participle for 'having been'.
+आकर,candidate,आबि कऽ,Devanagari,Maithili conjunctive participle for 'having come'.
+ब्रीप,candidate,ब्रीफ,Devanagari,Transliteration of English 'brief'.
+होते,candidate,होइत,Devanagari,Maithili imperfect participle for 'while being/happening'.
+डेविल,candidate,डेविल,Devanagari,Transliteration of English 'devil'.
+एरगोर्केट,candidate,एरगोर्केट,Devanagari,Transliteration of given term
+बंद,candidate,बन्द,Devanagari,Common Maithili word
+उल्टे,candidate,उल्टे,Devanagari,Common Maithili word
+पूछता,candidate,पुछैत,Devanagari,Maithili for 'asking' (verb form)
+हूं,candidate,छी,Devanagari,Maithili for 'am'
+बारी,candidate,बारी,Devanagari,Common Maithili word for 'turn'
+किसे,candidate,केकरा,Devanagari,Maithili for 'to whom'
+एलेक,candidate,एलेक,Devanagari,Transliteration of given term (name)
+प्रकरते,candidate,प्रकटैत,Devanagari,Maithili for 'appearing' (verb form)
+मन्थन,candidate,मन्थन,Devanagari,Common Maithili word for 'churning'
+करना,candidate,करब,Devanagari,Maithili infinitive 'to do'
+पड़ता,candidate,पड़ैत,Devanagari,"Maithili for 'falls, has to' (verb form)"
+अमृत,candidate,अमृत,Devanagari,Common Maithili word for 'nectar'
+निकले,candidate,निकलै,Devanagari,Maithili for 'comes out' (verb form)
+इस,candidate,ई,Devanagari,Maithili for 'this'
+कहा,candidate,कहल,Devanagari,Maithili for 'said'
+कोशिश,candidate,कोशिश,Devanagari,Common Maithili word for 'try'
+हैती,candidate,होइत,Devanagari,"Maithili for 'happens, is' (verb form)"
+निर्णाई,candidate,निर्णय,Devanagari,Maithili for 'decision'
+लेता,candidate,लैत,Devanagari,Maithili for 'takes' (verb form)
+लगता,candidate,लगैत,Devanagari,"Maithili for 'feels, seems' (verb form)"
+जाता,candidate,जाइत,Devanagari,Maithili for 'goes' (verb form)
+सहमना,candidate,सामना,Devanagari,"Maithili for 'facing, confrontation'"
+विचारों,candidate,विचारसभ,Devanagari,Maithili for 'thoughts' (plural)
+शेर,candidate,शेर,Devanagari,Common Maithili word for 'lion'
+हलके,candidate,हल्लुकसँ,Devanagari,for lightly/gently
+रियक्शन,candidate,प्रतिक्रिया,Devanagari,reaction
+देखता,candidate,देखैत,Devanagari,present participle for seeing/looking
+होगा,candidate,हेत,Devanagari,will be/would be
+conviction,candidate,दृढ विश्वास,Devanagari,firm belief; can also be दोषसिद्धि for legal conviction
+बन,candidate,बनि,Devanagari,root for 'to become/be made'
+जाए,candidate,जाइ,Devanagari,to go/become
+doesn,candidate,नहिं,Devanagari,"negation particle, 'not'"
+take,candidate,लेब,Devanagari,to take
+much,candidate,बेसी,Devanagari,much/more
+speed,candidate,गति,Devanagari,speed
+कैसे,candidate,केना,Devanagari,how
+लिये,candidate,लेल,Devanagari,for/for the sake of
+अब,candidate,एखन,Devanagari,now
+nobel,candidate,नोबेल,Devanagari,transliterated proper noun
+prize,candidate,पुरस्कार,Devanagari,prize/award
+विनर,candidate,विजेता,Devanagari,winner
+मिलते,candidate,मिलैत,Devanagari,present participle for meeting/getting
+भागबाद,candidate,भाग्यबाद,Devanagari,fatalism
+उदान,candidate,उदान,Devanagari,"philosophical concept/vital air, or generous gift"
+देते,candidate,दैत,Devanagari,present participle for giving
+कल,candidate,काल्हि,Devanagari,yesterday/tomorrow
+पार्टिया,candidate,पार्टीसभ,Devanagari,parties (plural)
+प्रिशर,candidate,दबाव,Devanagari,pressure
+करती,candidate,करैत,Devanagari,present participle for doing
+इतना,candidate,एतेक,Devanagari,Common Maithili equivalent
+पैसा,candidate,टाका,Devanagari,Common Maithili equivalent for money/coin
+दे,candidate,दिअ,Devanagari,Common Maithili imperative verb form
+अपनी,candidate,अपन,Devanagari,Common Maithili possessive adjective
+परिस्थिति,candidate,परिस्थिति,Devanagari,Common academic borrowing
+अनुसार,candidate,अनुसार,Devanagari,Common academic borrowing
+निलने,candidate,पाबय,Devanagari,Interpreted as 'मिलने' (to get/obtain)
+समाजिक,candidate,सामाजिक,Devanagari,"Common academic borrowing, corrected spelling"
+तनाव,candidate,तनाव,Devanagari,Common academic borrowing
+पैदा,candidate,उत्पन्न,Devanagari,Common academic borrowing for 'produced/created'
+होने,candidate,होबय,Devanagari,Common Maithili infinitive verb form
+दूँगा।,candidate,देब,Devanagari,"Maithili future tense, 1st person singular. Full stop excluded."
+ऐसे,candidate,एहन,Devanagari,Common Maithili demonstrative adjective
+मन,candidate,मन,Devanagari,Common Maithili word
+भावकताए,candidate,भावनासभ,Devanagari,Maithili plural for 'emotions'
+हुये,candidate,भेल,Devanagari,Maithili past participle form for 'happened/became'
+डाउन,candidate,डाउन,Devanagari,Transliterated English loanword
+पड़ी,candidate,खसल,Devanagari,Maithili past participle for 'fall'
+इकणां,candidate,हुनक,Devanagari,Interpreted as a variant of 'इनका' (their/his/her)
+पूरी,candidate,पूरा,Devanagari,Common Maithili adjective
+तरह,candidate,तरह,Devanagari,Common word in Maithili for 'way/manner'
+दुनिया,candidate,दुनिया,Devanagari,Common Maithili word
+बैट,candidate,बैसल,Devanagari,"Interpreted as 'बैठ' (to sit), Maithili past participle"
+चुकी,candidate,चुकल,Devanagari,Maithili perfective auxiliary
+ठी,candidate,छल,Devanagari,"Maithili past tense auxiliary, corrected spelling of 'थी'"
+heard,candidate,सुनल,Devanagari,common past participle
+opinions,candidate,विचार,Devanagari,general term for views
+experts,candidate,विशेषज्ञ,Devanagari,for specialists
+tried,candidate,प्रयास कएल,Devanagari,past participle verb form
+understand,candidate,बुझब,Devanagari,infinitive verb
+oppose,candidate,विरोध करब,Devanagari,infinitive verb
+combined,candidate,संयुक्त,Devanagari,"adjective, joined together"
+country,candidate,देश,Devanagari,nation
+situation,candidate,स्थिति,Devanagari,state of affairs
+own,candidate,अपन,Devanagari,possessive adjective
+experience,candidate,अनुभव,Devanagari,personal knowledge
+mixed,candidate,मिश्रित,Devanagari,"adjective, combined elements"
+developed,candidate,विकसित,Devanagari,"adjective, grown or advanced"
+things,candidate,चीज,Devanagari,general term for objects
+system,candidate,प्रणाली,Devanagari,organized structure
+because,candidate,किएक तँ,Devanagari,"conjunction, for that reason"
+inflation,candidate,मुद्रास्फीति,Devanagari,economic term
+world,candidate,विश्व,Devanagari,the earth and people
+immediately,candidate,तुरन्त,Devanagari,without delay
+after,candidate,बाद,Devanagari,subsequent to
+covid,candidate,कोविड,Devanagari,transliteration of term
+तेज,candidate,तेज,Devanagari,"Maithili word for 'fast', 'sharp'"
+गती,candidate,गति,Devanagari,"Maithili word for 'speed', 'motion'"
+प्रगधी,candidate,प्रगति,Devanagari,Maithili word for 'progress'
+वाला,candidate,वाला,Devanagari,Maithili suffix 'possessor' or 'agent'
+उसका,candidate,ओकर,Devanagari,Maithili equivalent for 'his/her/its'
+मूल,candidate,मूल,Devanagari,Maithili equivalent; means root/original
+कारण,candidate,कारण,Devanagari,Maithili equivalent; means reason/cause
+vishwan miriam,candidate,विश्वान मेरियम,Devanagari,Transliteration of proper names.
+miriam मेरी,candidate,मेरियम मेरी,Devanagari,Transliteration of name and Maithili for 'my'.
+मेरी आँख,candidate,हमर आँखि,Devanagari,Maithili for 'my eye'.
+आँख सामने,candidate,आँखि सोझाँ,Devanagari,Maithili for 'eye in front'.
+सामने जो,candidate,सोझाँ जे,Devanagari,Maithili for 'in front of that'.
+जो चीज़े,candidate,जे चीज सभ,Devanagari,Maithili for 'those things'.
+चीज़े वो,candidate,चीज सभ ओ,Devanagari,Maithili for 'things that/he/she'.
+वो ही,candidate,ओएह,Devanagari,Maithili for 'that very one'.
+ही मुझे,candidate,हमराए,Devanagari,Maithili for 'only me'.
+मुझे मोटिवेट,candidate,हमरा मोटिवेट,Devanagari,Maithili pronoun + transliterated English verb.
+मोटिवेट करते,candidate,मोटिवेट करैत,Devanagari,Transliterated verb + Maithili present participle.
+करते रहती,candidate,करैत रहैत,Devanagari,Maithili present continuous construction.
+रहती दूसरा,candidate,रहैत दोसर,Devanagari,Maithili equivalents for 'continues other'.
+दूसरा जो,candidate,दोसर जे,Devanagari,Maithili equivalents for 'other that'.
+जो जिम्मेबारी,candidate,जे जिम्मेवारी,Devanagari,Maithili equivalents for 'that responsibility'.
+जिम्मेबारी देशवास्वे,candidate,जिम्मेवारी देशवासी,Devanagari,Maithili for 'responsibility countrymen'.
+देशवास्वे ने,candidate,देशवासी,Devanagari,Maithili for 'countrymen'; 'ne' marker omitted.
+ने मुझे,candidate,हमरा,Devanagari,Maithili for 'me'; 'ne' marker omitted.
+मुझे दी,candidate,हमरा देलनि,Devanagari,Maithili for 'gave me' (honorific/plural subject).
+दी है।,candidate,देलनि अछि।,Devanagari,Maithili perfect tense construction.
+है। कि,candidate,अछि जे,Devanagari,Maithili equivalents for 'is that'.
+कि पद,candidate,जे पद,Devanagari,Maithili equivalents for 'that post'.
+पद मौज,candidate,पद मौज,Devanagari,Maithili for 'post enjoyment'.
+मौज मस्ती,candidate,मौज मस्ती,Devanagari,Common Maithili phrase for 'fun and frolic'.
+मस्ती करने,candidate,मस्ती करबाक,Devanagari,Maithili infinitive for 'to do fun'.
+करने लिए,candidate,करबाक लेल,Devanagari,Common phrase for 'to do for'.
+लिए आया।,candidate,लेल आयल।,Devanagari,Common phrase for 'came for'.
+आया। मेरी,candidate,आयल। हमर,Devanagari,Common phrase for 'came. My'.
+मेरी जरब,candidate,हमर काज,Devanagari,'जरब' interpreted as 'job' (काज).
+जरब पुरा,candidate,काज पूरा,Devanagari,'जरब' interpreted as 'job' (काज).
+पुरा प्रहास,candidate,पूरा प्रयास,Devanagari,'प्रहास' interpreted as 'प्रयास' (effort).
+प्रहास करूँगा,candidate,प्रयास करब,Devanagari,'प्रहास' interpreted as 'प्रयास' (effort).
+करूँगा हो,candidate,करब। भ',Devanagari,'हो' as part of 'हो सकता'.
+हो सकता,candidate,भ' सकैत अछि,Devanagari,Common phrase for 'it might be'.
+सकता दो,candidate,सकैत अछि दू,Devanagari,Common phrase for 'might be two'.
+दो काम,candidate,दू काज,Devanagari,Common phrase for 'two tasks'.
+काम बग,candidate,काज बग,Devanagari,'बग' transliterated.
+बग कर,candidate,बग कय,Devanagari,'बग' transliterated.
+कर पाऊं,candidate,कय सकब,Devanagari,Common phrase for 'be able to do'.
+पाऊं लेकिन,candidate,सकब मुदा,Devanagari,"Common phrase for 'able to, but'."
+लेकिन मेरे,candidate,मुदा हमर,Devanagari,Common phrase for 'but my'.
+मेरे प्रयास,candidate,हमर प्रयास,Devanagari,Common phrase for 'my effort'.
+प्रयास कमी,candidate,प्रयास मे कमी,Devanagari,Common phrase for 'lack in effort'.
+कमी रहेगी,candidate,कमी रहत,Devanagari,Common phrase for 'lack will remain'.
+रहेगी मैंने,candidate,रहत। हम,Devanagari,Common phrase for 'will remain. I'.
+मैंने कह,candidate,हम कहलिऐ,Devanagari,Common phrase for 'I said'.
+कह देशवासियों,candidate,कह देशवासी सब केँ,Devanagari,Common phrase for 'say to countrymen'.
+देशवासियों वादा,candidate,देशवासी सब केँ वादा,Devanagari,"Common phrase for 'countrymen, promise'."
+वादा करता,candidate,वादा करैत,Devanagari,"Common phrase for 'promise, doing'."
+करता हूँ,candidate,करैत छी,Devanagari,Common phrase for 'I do'.
+हूँ कि,candidate,छी कि,Devanagari,Maithili equivalent for 'am that'.
+कि मै,candidate,जे हम,Devanagari,Maithili for 'that I'.
+मै कभी,candidate,हम कहियो,Devanagari,Maithili for 'I ever/sometimes'.
+कभी बी,candidate,कहियो सेहो,Devanagari,Maithili for 'ever also/even' (interpreting 'बी' as 'भी').
+बी परिश्रम,candidate,सेहो परिश्रम,Devanagari,Maithili for 'also hard work' (interpreting 'बी' as 'भी').
+परिश्रम करने,candidate,परिश्रम करबाक,Devanagari,Maithili for 'of doing hard work'.
+करने पीछे,candidate,करबाक पाछाँ,Devanagari,Maithili for 'behind doing'.
+पीछे रहूंगा।,candidate,पाछाँ रहब।,Devanagari,Maithili for 'I will stay behind'.
+रहूंगा। दूसरा,candidate,रहब। दोसर,Devanagari,Maithili for 'I will stay. Second'.
+दूसरा कहता,candidate,दोसर कहैत अछि,Devanagari,Maithili for 'second one says'.
+कहता कि,candidate,कहैत अछि जे,Devanagari,Maithili for 'says that'.
+कि बद,candidate,जे खराब,Devanagari,Maithili for 'that bad'.
+बद इरादे,candidate,खराब नियत,Devanagari,Maithili for 'bad intentions'.
+इरादे कोई,candidate,नियत कोनो,Devanagari,Maithili for 'intentions any'.
+कोई काम,candidate,कोनो काज,Devanagari,Maithili for 'any work'.
+काम करूँगा,candidate,काज करब,Devanagari,Maithili for 'I will do work'.
+करूँगा तीसरा,candidate,करब। तेसर,Devanagari,Maithili for 'I will do. Third'.
+तीसरा कहता,candidate,तेसर कहैत अछि,Devanagari,Maithili for 'third one says'.
+कहता मेरे,candidate,कहैत अछि हमर,Devanagari,Maithili for 'says my'.
+मेरे लिए,candidate,हमरा लेल,Devanagari,Maithili for 'for me'.
+लिए कुछ,candidate,लेल किछु,Devanagari,Maithili for 'for something'.
+कुछ करूँगा,candidate,किछु करब,Devanagari,Maithili for 'I will do something'.
+करूँगा आज,candidate,करब। आइ,Devanagari,Maithili for 'I will do. Today'.
+आज मुझे,candidate,आइ हमरा,Devanagari,Maithili for 'today to me'.
+मुझे साल,candidate,हमरा साल,Devanagari,Maithili for 'to me year'.
+साल हो,candidate,साल भेल,Devanagari,Year become
+हो गए,candidate,भऽ गेल,Devanagari,Became/happened
+गए इतने,candidate,गेल एतेक,Devanagari,Went so many/much
+इतने लंबे,candidate,एतेक लम्बा,Devanagari,So long
+लंबे कालखन,candidate,लम्बा कालखंड,Devanagari,Long period of time
+कालखन head,candidate,कालखंड प्रमुख,Devanagari,Period head/chief
+head government,candidate,सरकारक प्रमुख,Devanagari,Head of government
+government given,candidate,सरकार देल,Devanagari,Government gave
+given work,candidate,देल गेल काज,Devanagari,Work given
+work weighed,candidate,काज तौलल,Devanagari,Work weighed
+weighed myself,candidate,अपन तौलल,Devanagari,Weighed myself
+myself three,candidate,अपन तीन,Devanagari,Myself three
+three pillars,candidate,तीन स्तम्भ,Devanagari,Three pillars
+pillars inspiration,candidate,स्तम्भ प्रेरणा,Devanagari,Pillars inspiration
+inspiration billion,candidate,प्रेरणा अरब,Devanagari,Inspiration billion
+billion people,candidate,अरब लोक,Devanagari,Billion people
+people लोगों,candidate,लोक लोकसभ,Devanagari,"People, the people (plural)"
+लोगों सेवा,candidate,लोकक सेवा,Devanagari,Service of people
+सेवा उनके,candidate,सेवा ओकर,Devanagari,Service their
+उनके एस्पिरेशन,candidate,ओकर एस्पिरेशन,Devanagari,Their aspiration (borrowed term)
+एस्पिरेशन उंकी,candidate,एस्पिरेशन ओकर,Devanagari,Aspiration their (borrowed term)
+उंकी आवशक्ता,candidate,ओकर आवश्यकता,Devanagari,Their need
+आवशक्ता है।,candidate,आवश्यकता अछि।,Devanagari,Need is.
+है। जितनी,candidate,अछि। जतेक,Devanagari,Is. As much as
+जितनी मेहनत,candidate,जतेक मेहनत,Devanagari,As much hard work
+मेहनत कर,candidate,परिश्रम करू,Devanagari,Translate 'work hard' (imperative).
+कर सकूँ,candidate,करि सकैत छी,Devanagari,Translate 'I can do' or 'I am able to do'.
+सकूँ जीतना,candidate,जिति सकैत छी,Devanagari,Translate 'I can win'.
+जीतना करसको,candidate,जतेक करि सकू,Devanagari,Translate 'as much as you can do'.
+करसको करने,candidate,करि सकबाक लेल,Devanagari,Translate 'for being able to do'.
+करने मुड़,candidate,करबाक लेल घुमू,Devanagari,Translate 'turn to do'.
+मुड़ आज,candidate,आइ घुमू,Devanagari,Translate 'turn today'.
+आज मैरी,candidate,आइ मैरी,Devanagari,Translate 'today Mary'.
+मैरी उर्जा,candidate,मैरीक ऊर्जा,Devanagari,Translate 'Mary's energy'.
+उर्जा वो,candidate,ऊर्जा ओ,Devanagari,Translate 'that energy'.
+ही engineer,candidate,मात्र इंजीनियर,Devanagari,Translate 'only engineer'.
+engineer person,candidate,इंजीनियर व्यक्ति,Devanagari,Translate 'engineer person'.
+person loves,candidate,व्यक्ति प्रेम करैत अछि,Devanagari,Translate 'person loves'.
+loves mathematics,candidate,गणित सँ प्रेम करैत अछि,Devanagari,Translate 'loves mathematics'.
+mathematics ask,candidate,गणित पूछू,Devanagari,Translate 'ask mathematics' (imperative).
+ask srinivasa,candidate,श्रीनिवास सँ पूछू,Devanagari,Translate 'ask Srinivasa' (imperative).
+srinivasa ramanujan,candidate,श्रीनिवास रामानुजन,Devanagari,Transliteration of proper noun.
+ramanujan indian,candidate,रामानुजन भारतीय,Devanagari,"Translate 'Ramanujan, Indian'."
+indian mathematician,candidate,भारतीय गणितज्ञ,Devanagari,Translate 'Indian mathematician'.

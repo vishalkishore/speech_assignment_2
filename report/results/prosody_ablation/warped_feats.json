@@ -1,0 +1,11 @@
+{
+  "sample_rate": 16000,
+  "hop_length": 160,
+  "win_length": 400,
+  "num_frames": 59701,
+  "voiced_ratio": 0.8590643372807826,
+  "f0_hz_mean_voiced": 188.0600128173828,
+  "f0_hz_std_voiced": 95.44090270996094,
+  "log_energy_mean": -5.69320011138916,
+  "log_energy_std": 2.7919511795043945
+}
